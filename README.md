@@ -1,4 +1,4 @@
-# A Curated List of Docker Community/Partner Extensions
+# A Curated List of Docker  Extensions
 
 
 Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality. Here are the list of community Docker extensions curated by the community members
