@@ -16,8 +16,10 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 [portainer/portainer-docker-extension:2.13.1]() - Docker container management made simple, with the world’s most popular GUI-based container management platform.
 
 
+## Database
 
-
+[PGAdmin4 extension for Docker Desktop](https://github.com/marcelo-ochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension
+[OracleXE 21c Docker Desktop Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Desktop Extension for using OracleXE 21c
 
 
 ## Security
