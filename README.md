@@ -18,7 +18,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 ## Database
 
-[PGAdmin4 extension for Docker Desktop](https://github.com/marcelo-ochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension
+[PGAdmin4 extension for Docker Desktop](https://github.com/marcelo-ochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
 [OracleXE 21c Docker Desktop Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Desktop Extension for using OracleXE 21c
 
 
