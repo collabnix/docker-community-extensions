@@ -8,7 +8,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click.
-[docker/
+
 
 ## Infrastructure/Container Management
 
@@ -27,6 +27,9 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images 
 
 ## Logging
+
+
+
 
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster.
