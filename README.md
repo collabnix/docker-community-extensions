@@ -1,4 +1,6 @@
-Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality. Here are the list of Docker extensions curated by the Collabnix community members
+Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality. Here are the list of Docker extensions curated by the Collabnix community members.
+
+Refer [this official link](https://www.docker.com/products/extensions/) to learn more about Docker Extensions.
 
 
 ## Utilities
@@ -32,6 +34,16 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension)<br>
+
+
+## References:
+
+- [Introduction to Docker Extension](https://docs.docker.com/desktop/extensions/)
+- [How to create your own Docker Extension](https://docs.docker.com/desktop/extensions-sdk/)
+- [Create Your First Extension](https://docs.docker.com/desktop/extensions-sdk/tutorials/initialize/)
+- [Minimal frontend extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
+- [Minimal React extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
+- [Minimal docker CLI extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
 
 
 
