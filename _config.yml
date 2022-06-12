@@ -7,7 +7,7 @@ github_username: collabnix
 youtube: c/Collabnix
 post_search: true
 google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 jekyll_admin:
   hidden_links:
     - posts
