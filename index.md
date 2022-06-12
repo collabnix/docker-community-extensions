@@ -1,4 +1,4 @@
-## A Curated List of Docker Extensions
+## Docker Extensions
 
 # A Curated List of Docker  Extensions
 
