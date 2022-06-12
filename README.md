@@ -28,7 +28,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 ## Security
 
-[snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images 
+[snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension)<br>
 
 ## Logging
 
@@ -36,7 +36,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 
 
-[docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster.
+[docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension)<br>
 
 
 
