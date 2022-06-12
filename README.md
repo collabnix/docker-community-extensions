@@ -29,6 +29,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 ## Security
 
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images <br>
+[slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Desktop extension ![Docker Pulls (https://img.shields.io/docker/pulls/slimdotai/dd-ext)<br>
 
 ## Logging
 
