@@ -1,1 +1,17 @@
+title: Docker Extensions
+description: >- # this means to ignore newlines until "baseurl:"
+  Docker Extensions - A Curated List of Docker Extensions
+show_downloads: true
+twitter_username: collabnix
+github_username: collabnix
+youtube: c/Collabnix
+post_search: true
+google_analytics:
 theme: jekyll-theme-architect
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
