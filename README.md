@@ -23,7 +23,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Infrastructure/Kubernetes/Container Management
 
-[AVENTER-UG/docker-mesos-extension](https://github.com/AVENTER-UG/docker-mesos-extension) - Apache Mesos Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/pAVENTER-UG/docker-mesos-extension)<br>
+[AVENTER-UG/docker-mesos-extension](https://github.com/AVENTER-UG/docker-mesos-extension) - Apache Mesos Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/AVENTER-UG/docker-mesos-extension)<br>
 [vmware/vmware-tanzu-community-edition-extension-for-docker-desktop](https://hub.docker.com/r/vmware/vmware-tanzu-community-edition-extension-for-docker-desktop) - VMware Tanzu Community Edition Extension for Docker Desktop.  <br>
 [portainer/portainer-docker-extension:2.13.1](https://hub.docker.com/r/portainer/portainer-docker-extension) - Docker container management made simple, with the world’s most popular GUI-based container management platform. <br>
 [OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop ![Github Stars](https://img.shields.io/github/stars/redhat-developer/openshift-dd-ext)<br>
