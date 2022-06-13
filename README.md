@@ -20,11 +20,12 @@ Here are the list of Docker extensions curated by the Collabnix community member
 [noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop<br>
 
 
-## Infrastructure/Container Management
+## Infrastructure/Kubernetes/Container Management
 
 [vmware/vmware-tanzu-community-edition-extension-for-docker-desktop](https://hub.docker.com/r/vmware/vmware-tanzu-community-edition-extension-for-docker-desktop) - VMware Tanzu Community Edition Extension for Docker Desktop. ![Docker Pulls](https://img.shields.io/docker/pulls/vmware/vmware-tanzu-community-edition-extension-for-docker-desktop) <br>
 [portainer/portainer-docker-extension:2.13.1](https://hub.docker.com/r/portainer/portainer-docker-extension) - Docker container management made simple, with the world’s most popular GUI-based container management platform. ![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer-docker-extension)<br>
 [OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop 
+[splatform/epinio-docker-desktop](https://hub.docker.com/r/splatform/epinio-docker-desktop) - The Application Development Engine for Kubernetes ![Docker Pulls](https://img.shields.io/docker/pulls/splatform/epinio-docker-desktop)<br>
 
 ## Networking
 
