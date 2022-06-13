@@ -48,6 +48,7 @@ Resources
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension)<br>
 [slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Desktop extension ![Docker Pulls](https://img.shields.io/docker/pulls/slimdotai/dd-ext)<br>
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities. 🐋 - ![Docker  Pulls](https://img.shields.io/docker/pulls/jfrog/jfrog-docker-desktop-extension)<br>
+[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Desktop Extension for Trivy <br>
 
 
 ## Logging
