@@ -17,7 +17,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click. ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop  <br>
-[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension)) <br>
+[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension) <br>
 [peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry
 
 
