@@ -16,18 +16,17 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click.  <br>
-[rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop  <br>
-[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop  <br>
-[peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry
+[rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground) <br>
+[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension)<br>
+[peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 
 
 ## Infrastructure/Kubernetes/Container Management
 
-[AVENTER-UG/docker-mesos-extension](https://github.com/AVENTER-UG/docker-mesos-extension) - Apache Mesos Extension for Docker Desktop
-<br>
+[AVENTER-UG/docker-mesos-extension](https://github.com/AVENTER-UG/docker-mesos-extension) - Apache Mesos Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/pAVENTER-UG/docker-mesos-extension)<br>
 [vmware/vmware-tanzu-community-edition-extension-for-docker-desktop](https://hub.docker.com/r/vmware/vmware-tanzu-community-edition-extension-for-docker-desktop) - VMware Tanzu Community Edition Extension for Docker Desktop.  <br>
 [portainer/portainer-docker-extension:2.13.1](https://hub.docker.com/r/portainer/portainer-docker-extension) - Docker container management made simple, with the world’s most popular GUI-based container management platform. <br>
-[OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop <br>
+[OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop ![Github Stars](https://img.shields.io/github/stars/redhat-developer/openshift-dd-ext)<br>
 [splatform/epinio-docker-desktop](https://hub.docker.com/r/splatform/epinio-docker-desktop) - The Application Development Engine for Kubernetes <br>
 
 ## Networking
@@ -56,7 +55,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Miscallenous
 
-[aerabi/docker-desktop-extension-zero](https://github.com/aerabi/docker-desktop-extension-zero) - Hello World Example
+[aerabi/docker-desktop-extension-zero](https://github.com/aerabi/docker-desktop-extension-zero) - Hello World Example 
 
 
 ## References:
