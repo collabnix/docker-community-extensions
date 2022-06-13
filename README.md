@@ -17,7 +17,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click. ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop  <br>
-[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension)) <br>
+[noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension) <br>
 [peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry
 
 
@@ -48,12 +48,17 @@ Resources
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension)<br>
 [slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Desktop extension ![Docker Pulls](https://img.shields.io/docker/pulls/slimdotai/dd-ext)<br>
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities. 🐋 - ![Docker  Pulls](https://img.shields.io/docker/pulls/jfrog/jfrog-docker-desktop-extension)<br>
+[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Desktop Extension for Trivy <br>
 
 
 ## Logging
 
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension)<br>
+
+## Miscallenous
+
+[aerabi/docker-desktop-extension-zero](https://github.com/aerabi/docker-desktop-extension-zero) - Hello World Example
 
 
 ## References:
@@ -64,8 +69,4 @@ Resources
 - [Minimal frontend extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
 - [Minimal React extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
 - [Minimal docker CLI extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
-
-
-
-
 
