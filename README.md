@@ -55,6 +55,10 @@ Resources
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension)<br>
 
+## Miscallenous
+
+[aerabi/docker-desktop-extension-zero](https://github.com/aerabi/docker-desktop-extension-zero) - Hello World Example
+
 
 ## References:
 
