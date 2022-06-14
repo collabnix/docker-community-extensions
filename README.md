@@ -89,7 +89,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## References:
 
-- [Introducing Docker Extension](https://www.youtube.com/watch?v=BClJ0i9lXIY) - VIDEO
+- [Introducing Docker Extension](https://www.youtube.com/watch?v=BClJ0i9lXIY) - YouTube
 - [Introduction to Docker Extension](https://docs.docker.com/desktop/extensions/)
 - [How to create your own Docker Extension](https://docs.docker.com/desktop/extensions-sdk/)
 - [Create Your First Extension](https://docs.docker.com/desktop/extensions-sdk/tutorials/initialize/)
