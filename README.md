@@ -38,6 +38,9 @@ Here are the list of Docker extensions curated by the Collabnix community member
 [portainer/portainer-docker-extension:2.13.1](https://hub.docker.com/r/portainer/portainer-docker-extension) - Docker container management made simple, with the world’s most popular GUI-based container management platform. <br>
 [OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop ![Github Stars](https://img.shields.io/github/stars/redhat-developer/openshift-dd-ext)<br>
 [splatform/epinio-docker-desktop](https://hub.docker.com/r/splatform/epinio-docker-desktop) - The Application Development Engine for Kubernetes <br>
+[meshery/docker-extension-meshery](https://hub.docker.com/r/meshery/docker-extension-meshery) - Extends Docker Desktop’s position as the cloud native developer’s go-to Kubernetes environment with easy access to the next layer of cloud native infrastructure: service meshes.
+
+
 
 ## Networking
 
