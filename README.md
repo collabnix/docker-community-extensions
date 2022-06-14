@@ -31,7 +31,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Infrastructure/Kubernetes/Container Management
 
-[Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)<br>
+[Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment.  <br>
 [Ambassador Labs Telepresence](https://www.getambassador.io/kubernetes-learning-center/telepresence-docker-extension/) -  Develop and test your Docker containers with Kubernetes <br>
 [AVENTER-UG/docker-mesos-extension](https://github.com/AVENTER-UG/docker-mesos-extension) - Apache Mesos Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/AVENTER-UG/docker-mesos-extension)<br>
 [vmware/vmware-tanzu-community-edition-extension-for-docker-desktop](https://hub.docker.com/r/vmware/vmware-tanzu-community-edition-extension-for-docker-desktop) - VMware Tanzu Community Edition Extension for Docker Desktop.  <br>
