@@ -29,6 +29,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 5. [Security](#security)
 6. [Logging](#logging)
 7. [Gaming](#gaming)
+8. [Testing](#testing)
 
 
 
@@ -81,7 +82,9 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 [Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird)
 
+## Testing
 
+[uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file <br>
 
 
 ## References:
