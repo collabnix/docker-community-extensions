@@ -89,7 +89,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Infrastructure
 
-[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Creates an Ansible lab environment with an Ansible control node, six linux nodes (ubuntu/centos), web terminals, remote proxies and preconfigured ssh keys within Docker Desktop.  Extension source code and images available [here](https://github.com/spurin/diveintoansible-extension) ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
+[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Creates an Ansible lab environment with an Ansible control node, 6 linux nodes (Ubuntu/Centos), Web terminals, Remote proxies and Preconfigured SSH keys within Docker Desktop.  Extension source code and images available [here](https://github.com/spurin/diveintoansible-extension) ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
 
 ## References:
 
