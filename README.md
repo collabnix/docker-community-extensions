@@ -84,7 +84,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Testing
 
-[uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file <br>
+[uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file  <br>
 
 
 ## References:
