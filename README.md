@@ -30,6 +30,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 6. [Logging](#logging)
 7. [Gaming](#gaming)
 8. [Testing](#testing)
+9. [Infrastructure](#infrastructure)
 
 
 
@@ -86,6 +87,9 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file  <br>
 
+## Infrastructure
+
+[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Creates an Ansible lab environment with an Ansible control node, six linux nodes (ubuntu/centos), web terminals, remote proxies and preconfigured ssh keys within Docker Desktop.  Extension source code and images available [here](https://github.com/spurin/diveintoansible-extension) ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
 
 ## References:
 
