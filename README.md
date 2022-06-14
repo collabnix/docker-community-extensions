@@ -20,6 +20,18 @@ Refer [this official link](https://www.docker.com/products/extensions/) to learn
 Here are the list of Docker extensions curated by the Collabnix community members.
 
 
+## Table of Contents
+
+1. [Utilities](#utilities)
+2. [Container Management and Orchestration](#container-management-and-orchestration)
+3. [Networking](#networking)
+4. [Database](#database)
+5. [Security](#security)
+6. [Logging](#logging)
+7. [Gaming](#gaming)
+
+
+
 ## Utilities
 
 
@@ -29,7 +41,7 @@ Here are the list of Docker extensions curated by the Collabnix community member
 [peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 
 
-## Infrastructure/Kubernetes/Container Management
+## Container Management and Orchestration
 
 [Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment.  <br>
 [Ambassador Labs Telepresence](https://www.getambassador.io/kubernetes-learning-center/telepresence-docker-extension/) -  Develop and test your Docker containers with Kubernetes <br>
