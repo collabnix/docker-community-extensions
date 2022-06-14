@@ -1,3 +1,11 @@
+![stars](https://img.shields.io/github/stars/collabnix/docker-community-extensions)
+![forks](https://img.shields.io/github/forks/collabnix/docker-community-extensions)
+![issues](https://img.shields.io/github/issues/collabnix/docker-community-extensions)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.docker-community-extensions)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
+
+
 Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality. 
 
 
