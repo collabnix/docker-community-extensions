@@ -31,6 +31,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 6. [Logging](#logging)
 7. [Gaming](#gaming)
 8. [Testing](#testing)
+9. [Infrastructure](#infrastructure)
 
 
 ## Utilities
@@ -87,6 +88,9 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file<br>
 
+## Infrastructure
+
+[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Creates an Ansible lab environment with an Ansible control node, 6 linux nodes (Ubuntu/Centos), Web terminals, Remote proxies and Preconfigured SSH keys within Docker Desktop.  Extension source code and images available [here](https://github.com/spurin/diveintoansible-extension) ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
 
 ## References:
 
@@ -97,3 +101,4 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [Minimal frontend extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
 - [Minimal React extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
 - [Minimal docker CLI extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
+- [Creating Docker Desktop Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
