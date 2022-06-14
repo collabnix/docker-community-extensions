@@ -1,4 +1,6 @@
-title: Docker Extensions
+title: Docker Community Extensions
+description: >- # this means to ignore newlines until "baseurl:"
+  Docker Community Extensions - A Curated List of Docker Extensions
 show_downloads: true
 twitter_username: collabnix
 github_username: collabnix
