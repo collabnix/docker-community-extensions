@@ -60,7 +60,6 @@ Here are the list of Docker extensions curated by the Collabnix community member
 
 ## Logging
 
-
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster <br>
 
 ## Miscellenous
