@@ -43,6 +43,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension)<br>
 [peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 [caretdev/docker-intersystems-extension](https://github.com/caretdev/docker-intersystems-extension) - View Docker Images from Intersystems Docker Extension ![Github Stars](https://img.shields.io/github/stars/caretdev/docker-intersystems-extension)<br>
+[cedricziel/dd-extension-lgtm)](https://github.com/cedricziel/dd-extension-lgtm) -  OpenTelemetry enabled Grafana LGTM stack <br>
 
 
 ## Container Management and Orchestration
