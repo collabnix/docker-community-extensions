@@ -32,6 +32,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 7. [Gaming](#gaming)
 8. [Testing](#testing)
 9. [Infrastructure](#infrastructure)
+10. [API](#api)
 
 
 ## Utilities
@@ -93,6 +94,10 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Infrastructure
 
 [spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
+
+## API
+
+[loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 
 ## References:
 
