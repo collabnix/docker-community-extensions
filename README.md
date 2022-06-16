@@ -44,6 +44,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 [caretdev/docker-intersystems-extension](https://github.com/caretdev/docker-intersystems-extension) - View Docker Images from Intersystems Docker Extension ![Github Stars](https://img.shields.io/github/stars/caretdev/docker-intersystems-extension)<br>
 [cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) -  OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm)<br>
+[felipecruz91/vackup-docker-extension](https://github.com/felipecruz91/vackup-docker-extension) - Backup and Restore Docker Volumes ![Github Stars](https://img.shields.io/github/stars/felipecruz91/vackup-docker-extension)<br>
 
 
 ## Container Management and Orchestration
@@ -110,3 +111,4 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [Minimal React extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
 - [Minimal docker CLI extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
 - [Creating Docker Desktop Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
+- [Introducing Docker Extensions: DevOps and Docker Live Show (Ep 174) (Bret Fisher)](https://www.youtube.com/watch?v=BHKp7Sc3VVc) - YouTube
