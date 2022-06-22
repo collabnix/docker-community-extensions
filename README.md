@@ -46,6 +46,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) -  OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm)<br>
 [felipecruz91/vackup-docker-extension](https://github.com/felipecruz91/vackup-docker-extension) - Backup and Restore Docker Volumes ![Github Stars](https://img.shields.io/github/stars/felipecruz91/vackup-docker-extension)<br>
 [efejjota/counter-extension](https://github.com/efejjota/counter-extension) - Counter extension Showcasing data persistency, backend commands, vanilla JS UI and Docker multistage builds<br>
+[felipecruz91/bind-mount-extension](https://github.com/felipecruz91/bind-mount-extension) - Bind mount Extension which bind a dir to the extension container and list the contents of the bind mounted file ![Github Stars] (https://img.shields.io/github/stars/felipecruz91/bind-mount-extension) <br>
 
 
 ## Container Management and Orchestration
