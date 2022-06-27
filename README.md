@@ -103,7 +103,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices <br>
-[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Desktop extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![Docker Pulls](https://img.shields.io/docker/pulls/samoht/docker-extension-ocaml) <br>
+[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Desktop extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features.  <br>
 
 
 ## References:
