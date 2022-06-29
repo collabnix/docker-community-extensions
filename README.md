@@ -117,5 +117,5 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [Minimal frontend extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
 - [Minimal React extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
 - [Minimal docker CLI extension tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
-- [Creating Docker Desktop Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
+- [Creating Docker Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
 - [Introducing Docker Extensions: DevOps and Docker Live Show (Ep 174) (Bret Fisher)](https://www.youtube.com/watch?v=BHKp7Sc3VVc) - YouTube
