@@ -43,7 +43,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
 [noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension) ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension?style=flat-square) <br>
-[peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Desktop Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
+[peacecwz/github-registry-docker-desktop-extension](peacecwz/github-registry-docker-desktop-extension) - Docker Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 [caretdev/docker-intersystems-extension](https://github.com/caretdev/docker-intersystems-extension) - View Docker Images from Intersystems Docker Extension ![Github Stars](https://img.shields.io/github/stars/caretdev/docker-intersystems-extension)<br>
 [cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) -  OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm)<br>
 [felipecruz91/vackup-docker-extension](https://github.com/felipecruz91/vackup-docker-extension) - Backup and Restore Docker Volumes ![Github Stars](https://img.shields.io/github/stars/felipecruz91/vackup-docker-extension)<br>
@@ -71,15 +71,15 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Database
 
 [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
-[OracleXE 21c Docker Desktop Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Desktop Extension for using OracleXE 21c<br>
+[OracleXE 21c Docker Desktop Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
 
 
 ## Security
 
-[snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Desktop extension for running Snyk scan on images<br>
+[snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Extension for running Snyk scan on images<br>
 [slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Desktop extension<br>
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities 🐋<br>
-[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Desktop Extension for Trivy<br>
+[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extension for Trivy<br>
 [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension)<br>
 
 
@@ -105,7 +105,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices <br>
-[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Desktop extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features.  <br>
+[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features.  <br>
 
 
 ## References:
