@@ -12,12 +12,12 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
    
@@ -38,14 +38,10 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="https://launchpass.com/collabnix" class="btn">Join Slack</a>
+        <a href="https://docs.google.com/forms/d/1-buGRL3hTRqSMC8rSgKGwoX7UxEQG9jjeztTEI3IU1o/edit" class="btn">Submit Your Docker Extensions</a>
      {% endif %}
-      {% if site.show_downloads %}
-        <a href="https://collabnix.com/docker-cheatsheet/" class="btn">Docker Cheatsheet</a>
-     {% endif %}
-        {% if site.show_downloads %}
-        <a href="https://collabnix.com/docker-compose-cheatsheet/" class="btn">Docker Compose Cheatsheet</a>
-     {% endif %}
+      
+        
           
     </header>
 
