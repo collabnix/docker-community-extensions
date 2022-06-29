@@ -71,15 +71,15 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Database
 
 [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
-[OracleXE 21c Docker Desktop Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
+[OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
 
 
 ## Security
 
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Extension for running Snyk scan on images<br>
-[slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Desktop extension<br>
+[slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Extensions<br>
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities 🐋<br>
-[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extension for Trivy<br>
+[aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
 [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension)<br>
 
 
