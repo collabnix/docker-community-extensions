@@ -97,7 +97,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Testing
 
 [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file<br>
-[ddosify/dssofify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. 
+[ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. 
 
 ## Infrastructure
 
