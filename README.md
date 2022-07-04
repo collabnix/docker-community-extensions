@@ -99,6 +99,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Infrastructure
 
+[kubesail/docker-extension](https://github.com/kubesail/docker-extension) - Self-hosting/running internet software on computers you own.<br>
 [spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
 
 ## API
