@@ -84,8 +84,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Extensions<br>
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities 🐋<br>
 [aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
-[l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension)<br>
-[developer-guy/cosign-docker-extension](https://github.com/developer-guy/cosign-docker-extension) - Container Signing, Verification and Storage in an OCI registry.
+[l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
+[developer-guy/cosign-docker-extension](https://github.com/developer-guy/cosign-docker-extension) - Container Signing, Verification and Storage in an OCI registry. ![badge](https://img.shields.io/badge/-new-red)
 
 
 ## Logging
@@ -95,7 +95,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Gaming
 
-[Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird)
+[Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) ![badge](https://img.shields.io/badge/-new-red)
 
 
 ## Testing
