@@ -62,6 +62,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [OpenShift Docker Extension](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop ![Github Stars](https://img.shields.io/github/stars/redhat-developer/openshift-dd-ext)<br>
 [splatform/epinio-docker-desktop](https://hub.docker.com/r/splatform/epinio-docker-desktop) - The Application Development Engine for Kubernetes <br>
 [meshery/docker-extension-meshery](https://hub.docker.com/r/meshery/docker-extension-meshery) - Extends Docker Desktop’s position as the cloud native developer’s go-to Kubernetes environment with easy access to the next layer of cloud native infrastructure: service meshes
+[loft-sh/vcluster-dd-extension](https://github.com/loft-sh/vcluster-dd-extension) - Manages vclusters quickly and easily through the Docker Desktop interface.
 
 
 ## Networking
