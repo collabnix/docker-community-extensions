@@ -90,7 +90,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Logging
 
-[docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster<br>
+[docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) <br>
 
 
 ## Gaming
