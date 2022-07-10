@@ -67,7 +67,9 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Networking
 
-[tailscale/docker-extension](https://hub.docker.com/r/tailscale/docker-extension) - Docker Extension adding Tailscale networking<br>
+[tailscale/docker-extension](https://hub.docker.com/r/tailscale/docker-extension) - Docker Extension adding Tailscale networking ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension?style=flat-square)<br>
+
+
 
 
 ## Database
