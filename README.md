@@ -41,7 +41,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Development
 
 
-[spurin/webden](https://github.com/spurin/webden) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
+[spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Utilities
 
