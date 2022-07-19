@@ -77,6 +77,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
 [OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
+[SQLCL Docker Extension](https://github.com/marcelo-ochoa/sqlcl-docker-extension) - Docker Extension for using an embedded version of Oracle SQLcl client tool ![badge](https://img.shields.io/badge/-new-red) <br>
 
 
 ## Security
