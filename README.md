@@ -139,6 +139,9 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
  make build-extension
 ```
 
+The above command generates a Docker image named after the Docker Hub repository.
+
+
 ### Step 3. Install Docker Extensions
 
 To install the extension in Docker Desktop, run:
