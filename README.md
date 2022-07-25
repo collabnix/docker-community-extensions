@@ -135,6 +135,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ### Step 2. Build the Docker Extension
 
+Navigate into the cloned repository and run:
+
 ```
  make build-extension
 ```
