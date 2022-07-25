@@ -146,10 +146,11 @@ The above command generates a Docker image named after the Docker Hub repository
 
 ### Step 3. Install Docker Extensions
 
+
 To install the extension in Docker Desktop, run:
 
 ```
- docker extension install <name-of-your-extension>
+ docker extension install <repo-name>/<name-of-your-extension> (edited) 
 ```
 
 ### Step 4. List the Extension
