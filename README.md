@@ -125,8 +125,10 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red)  <br>
 
 
-## How to install Docker Extensions
+# How to install Docker Extensions
 
+## i. Using GitHub
+ 
 ### Step 1. Clone the repository
 
 ```
@@ -150,17 +152,33 @@ The above command generates a Docker image named after the Docker Hub repository
 To install the extension in Docker Desktop, run:
 
 ```
- docker extension install <repo-name>/<name-of-your-extension> (edited) 
+ docker extension install <repo-name>/<name-of-your-extension>
 ```
 
 ### Step 4. List the Extension
 
- You can also check that the extension has been installed using the following CLI command:
+ You can also check that the extension has been installed successfully using the following CLI command:
 
 ```
  docker extension ls
 ```
 
+## ii. Using Docker Hub
+
+### Step 1. Pull the image
+
+```
+ docker pull <Docker-Hub-username>/<image-name>
+```
+
+### Step 2. Install Docker Extensions
+
+
+To install the extension in Docker Desktop, run:
+
+```
+ docker extension install <Docker-Hub-username>/<image-name>
+```
 
 ## References:
 
