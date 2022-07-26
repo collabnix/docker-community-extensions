@@ -157,7 +157,7 @@ To install the extension in Docker Desktop, run:
 
 ### Step 4. List the Extension
 
- You can also check that the extension has been installed succesfully using the following CLI command:
+ You can also check that the extension has been installed successfully using the following CLI command:
 
 ```
  docker extension ls
