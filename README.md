@@ -55,8 +55,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [felipecruz91/vackup-docker-extension](https://github.com/felipecruz91/vackup-docker-extension) - Backup and Restore Docker Volumes ![Github Stars](https://img.shields.io/github/stars/felipecruz91/vackup-docker-extension)<br>
 [efejjota/counter-extension](https://github.com/efejjota/counter-extension) - Counter extension Showcasing data persistency, backend commands, vanilla JS UI and Docker multistage builds<br>
 [felipecruz91/bind-mount-extension](https://github.com/felipecruz91/bind-mount-extension) - Bind mount Extension which bind a dir to the extension container and list the contents of the bind mounted file ![Github Stars](https://img.shields.io/github/stars/felipecruz91/bind-mount-extension) <br>
-[tomwillfixit/docker-extension](https://github.com/tomwillfixit/docker-extension) - Turn any script into a Docker Extension in about 3 minutes
-[jatin711-debug/request-docker-extension](https://github.com/jatin711-debug/request-docker-extension) - Docker Desktop Request Mapper
+[tomwillfixit/docker-extension](https://github.com/tomwillfixit/docker-extension) - Turn any script into a Docker Extension in about 3 minutes <br>
+[jatin711-debug/request-docker-extension](https://github.com/jatin711-debug/request-docker-extension) - Docker Desktop Request Mapper <br>
 [awaldow/docker-desktop-healthchecks-ui](https://github.com/awaldow/docker-desktop-healthchecks-ui)- Docker Desktop Extension to show container healthchecks output. ![badge](https://img.shields.io/badge/-new-red)<br>
 [kameshsampath/drone-desktop-docker-extension](https://github.com/kameshsampath/drone-desktop-docker-extension) - A Docker Desktop extension to run and manage drone pipelines. ![badge](https://img.shields.io/badge/-new-red)<br>
 
