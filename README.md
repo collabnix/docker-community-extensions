@@ -59,6 +59,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [jatin711-debug/request-docker-extension](https://github.com/jatin711-debug/request-docker-extension) - Docker Desktop Request Mapper <br>
 [awaldow/docker-desktop-healthchecks-ui](https://github.com/awaldow/docker-desktop-healthchecks-ui)- Docker Desktop Extension to show container healthchecks output. ![badge](https://img.shields.io/badge/-new-red)<br>
 [kameshsampath/drone-desktop-docker-extension](https://github.com/kameshsampath/drone-desktop-docker-extension) - A Docker Desktop extension to run and manage drone pipelines. ![badge](https://img.shields.io/badge/-new-red)<br>
+[lucbpz/graph-view-docker-extension](https://github.com/lucbpz/graph-view-docker-extension) - Docker extensions that displays all your containers, volumes, images etc. in a network graph. ![badge](https://img.shields.io/badge/-new-red)<br>
 
 
 ## Container Management and Orchestration
