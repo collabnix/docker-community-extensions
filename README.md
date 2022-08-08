@@ -40,11 +40,9 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Development
 
-
 [spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Utilities
-
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
@@ -61,7 +59,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [kameshsampath/drone-desktop-docker-extension](https://github.com/kameshsampath/drone-desktop-docker-extension) - A Docker Desktop extension to run and manage drone pipelines. ![badge](https://img.shields.io/badge/-new-red)<br>
 [lucbpz/graph-view-docker-extension](https://github.com/lucbpz/graph-view-docker-extension) - Docker extensions that displays all your containers, volumes, images etc. in a network graph. ![badge](https://img.shields.io/badge/-new-red)<br>
 
-
 ## Container Management and Orchestration
 
 [Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment<br>
@@ -73,21 +70,17 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [splatform/epinio-docker-desktop](https://hub.docker.com/r/splatform/epinio-docker-desktop) - The Application Development Engine for Kubernetes <br>
 [meshery/docker-extension-meshery](https://hub.docker.com/r/meshery/docker-extension-meshery) - Extends Docker Desktop’s position as the cloud native developer’s go-to Kubernetes environment with easy access to the next layer of cloud native infrastructure: service meshes<br>
 [loft-sh/vcluster-dd-extension](https://github.com/loft-sh/vcluster-dd-extension) - Manages vclusters quickly and easily through the Docker Desktop interface. ![badge](https://img.shields.io/badge/-new-red)<br>
-
+[spurin/k9s-dd-extension](https://github.com/spurin/k9s-dd-extension) - k9s UI preconfigured to run against Docker Desktop Kubernetes ![Github Stars](https://img.shields.io/github/stars/spurin/k9s-dd-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Networking
 
 [tailscale/docker-extension](https://hub.docker.com/r/tailscale/docker-extension) - Docker Extension adding Tailscale networking ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension?style=flat-square)<br>
-
-
-
 
 ## Database
 
 [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
 [OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
 [SQLCL Docker Extension](https://github.com/marcelo-ochoa/sqlcl-docker-extension) - Docker Extension for using an embedded version of Oracle SQLcl client tool ![badge](https://img.shields.io/badge/-new-red) <br>
-
 
 ## Security
 
@@ -97,17 +90,13 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
 [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 
-
-
 ## Logging
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) <br>
 
-
 ## Gaming
 
 [Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) ![badge](https://img.shields.io/badge/-new-red)
-
 
 ## Testing
 
@@ -124,7 +113,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices ![badge](https://img.shields.io/badge/-new-red) <br>
 [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red)  <br>
-
 
 # How to install Docker Extensions
 
