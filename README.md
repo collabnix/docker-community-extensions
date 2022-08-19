@@ -169,19 +169,6 @@ To install the extension in Docker Desktop, run:
  docker extension install <Docker-Hub-username>/<image-name>
 ```
 
-## Videos
-
-<center>
-<table>
-  <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/313480/185612381-5f2d2c0b-300b-4f77-9b2e-0e413ecdc7e8.png" width="100px;" height="300px;" alt="Docker Extension for Anchore" /><br /><b>Docker Extension for Anchore</b></a></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/313480/185612955-00cb29f9-692b-404b-a264-939b5c6a9118.png" width="75px;" height="75px;" alt="cicd"/><br /><b>Docker Extension for Okteto</b></a></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/313480/185612838-5ad00a64-1e0b-48c3-bae1-5f9cd92d7ef7.png" width="75px;" height="75px;" alt="Git"/><br /><b>Docker Extension for Uffizzi</b></a></td>
-    </tr>
-    
-</table>
-</center>
-
 
 ## References:
 
