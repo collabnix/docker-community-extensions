@@ -181,8 +181,7 @@ To install the extension in Docker Desktop, run:
 
 | Docker Extension for Snyk | Docker Extension for VMware Tanzu |
 | ------------- | ------------- |
-| [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=1WGMMfed3g8)  |
-
+| [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=qGUO-LYT7V0)  |
 
 
 
