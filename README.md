@@ -179,7 +179,7 @@ To install the extension in Docker Desktop, run:
 | [![Gosh Extensions](https://user-images.githubusercontent.com/313480/186926472-b8ab73db-9a88-4ba8-ae4e-99a4e4f6fa90.png)](https://www.youtube.com/watch?v=eO6pnSLhvwY) | [![Slim.io Extension](https://user-images.githubusercontent.com/313480/186927752-5c6de7ee-bee9-43f3-aa27-9d8fbf63e242.png)](https://www.youtube.com/watch?v=Ka9zp_gOCdg) |
 
 
-| Docker Extension for Snyk | Docker Extension for VMware |
+| Docker Extension for Snyk | Docker Extension for VMware Tanzu |
 | ------------- | ------------- |
 | [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=1WGMMfed3g8)  |
 
