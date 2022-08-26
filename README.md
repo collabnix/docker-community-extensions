@@ -171,7 +171,7 @@ To install the extension in Docker Desktop, run:
  docker extension install <Docker-Hub-username>/<image-name>
 ```
 
-## Trending Videos
+## Videos
 
 
 | Docker Extension for GOSH | Docker Extension for Slim.io |
