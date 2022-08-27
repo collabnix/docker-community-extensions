@@ -174,7 +174,7 @@ To install the extension in Docker Desktop, run:
 ## Videos
 
 
-| Docker Extension for GOSH | Docker Extension for Slim.io |
+| Docker Extension for GOSH | Docker Extension for Slim.ai |
 | ------------- | ------------- |
 | [![Gosh Extensions](https://user-images.githubusercontent.com/313480/186926472-b8ab73db-9a88-4ba8-ae4e-99a4e4f6fa90.png)](https://www.youtube.com/watch?v=eO6pnSLhvwY) | [![Slim.io Extension](https://user-images.githubusercontent.com/313480/186927752-5c6de7ee-bee9-43f3-aa27-9d8fbf63e242.png)](https://www.youtube.com/watch?v=Ka9zp_gOCdg) |
 
