@@ -7,6 +7,8 @@
 
 Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality.
 
+![image](https://user-images.githubusercontent.com/313480/187353648-e09c0f48-bc39-4040-a13c-7d74280a9a3a.png)
+
 
 ## Why Developers Need Docker Extensions
 
