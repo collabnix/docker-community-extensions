@@ -35,12 +35,13 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 3. [Container Management and Orchestration](#container-management-and-orchestration)
 4. [Networking](#networking)
 5. [Database](#database)
-6. [Security](#security)
-7. [Logging](#logging)
-8. [Gaming](#gaming)
-9. [Testing](#testing)
-10. [Infrastructure](#infrastructure)
-11. [API](#api)
+6. [Storage](#storage)
+7. [Security](#security)
+8. [Logging](#logging)
+9. [Gaming](#gaming)
+10. [Testing](#testing)
+11. [Infrastructure](#infrastructure)
+12. [API](#api)
 
 ## Development
 
@@ -87,6 +88,11 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
 [SQLCL Docker Extension](https://github.com/marcelo-ochoa/sqlcl-docker-extension) - Docker Extension for using an embedded version of Oracle SQLcl client tool ![badge](https://img.shields.io/badge/-new-red) <br>
 [Docker Extension for Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension) - Docker Extension for Percona Monitoring and Management ![Github Stars](https://img.shields.io/github/stars/edithturn/pmm-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
+
+## Storage
+
+[Storj Docker Extension](https://github.com/elek/docker-storj-extension) - A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. ![badge](https://img.shields.io/badge/-new-red) <br>
+
 
 ## Security
 
