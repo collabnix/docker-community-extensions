@@ -5,9 +5,11 @@
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
-<p align="center" width="100%">
-    <img width="63%" src="https://user-images.githubusercontent.com/313480/187353648-e09c0f48-bc39-4040-a13c-7d74280a9a3a.png">
-</p>
+
+
+
+https://user-images.githubusercontent.com/313480/188309163-74b55cf0-7588-45b4-b7d6-ea47c4f67ea2.mov
+
 
 
 Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality.
