@@ -5,10 +5,8 @@
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
+https://user-images.githubusercontent.com/313480/188309328-e1401cf4-a48c-4751-af79-702f8b859069.mov
 
-
-
-https://user-images.githubusercontent.com/313480/188309163-74b55cf0-7588-45b4-b7d6-ea47c4f67ea2.mov
 
 
 
