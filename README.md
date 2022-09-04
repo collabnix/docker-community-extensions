@@ -5,12 +5,16 @@
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
+# A Curated List of Docker Extensions
+
+
+Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality.
+
+
 https://user-images.githubusercontent.com/313480/188309328-e1401cf4-a48c-4751-af79-702f8b859069.mov
 
 
 
-
-Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality.
 
 ## Why Developers Need Docker Extensions
 
