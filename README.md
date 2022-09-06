@@ -80,6 +80,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [loft-sh/vcluster-dd-extension](https://github.com/loft-sh/vcluster-dd-extension) - Manages vclusters quickly and easily through the Docker Desktop interface. ![badge](https://img.shields.io/badge/-new-red)<br>
 [spurin/k9s-dd-extension](https://github.com/spurin/k9s-dd-extension) - k9s UI preconfigured to run against Docker Desktop Kubernetes ![Github Stars](https://img.shields.io/github/stars/spurin/k9s-dd-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [AlfrescoLabs/alfresco-docker-extension](https://github.com/AlfrescoLabs/alfresco-docker-extension) - Single "Run" button to deploy Alfresco platform with Docker ![Github Stars](https://img.shields.io/github/stars/AlfrescoLabs/alfresco-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
+[Gefyra Docker Extension](https://github.com/gefyrahq/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes! ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Networking
 
