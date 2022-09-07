@@ -116,7 +116,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) <br>
 
-## Gaming
+## 🎮 Gaming
 
 [Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) ![badge](https://img.shields.io/badge/-new-red)
 
