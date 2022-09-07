@@ -51,11 +51,11 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Categories
 
-## Development
+## 🧑‍💻 Development
 
 [spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
 
-## Utilities
+## 🧰 Utilities
 
 [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
@@ -72,7 +72,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [harness/drone-desktop-docker-extension](https://github.com/harness/drone-desktop-docker-extension) - A Docker Desktop extension to run and manage drone pipelines. ![badge](https://img.shields.io/badge/-new-red)<br>
 [lucbpz/graph-view-docker-extension](https://github.com/lucbpz/graph-view-docker-extension) - Docker extensions that displays all your containers, volumes, images etc. in a network graph. ![badge](https://img.shields.io/badge/-new-red)<br>
 
-## Container Management and Orchestration
+## 🫙 Container Management and Orchestration
 
 [Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment<br>
 [Ambassador Labs Telepresence](https://www.getambassador.io/kubernetes-learning-center/telepresence-docker-extension/) - Develop and test your Docker containers with Kubernetes<br>
@@ -87,11 +87,11 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [AlfrescoLabs/alfresco-docker-extension](https://github.com/AlfrescoLabs/alfresco-docker-extension) - Single "Run" button to deploy Alfresco platform with Docker ![Github Stars](https://img.shields.io/github/stars/AlfrescoLabs/alfresco-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [Gefyra Docker Extension](https://github.com/gefyrahq/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes! ![badge](https://img.shields.io/badge/-new-red)<br>
 
-## Networking
+## 🌐 Networking
 
 [tailscale/docker-extension](https://hub.docker.com/r/tailscale/docker-extension) - Docker Extension adding Tailscale networking ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension?style=flat-square)<br>
 
-## Database
+## 🗄️ Database
 
 [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
 [OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
