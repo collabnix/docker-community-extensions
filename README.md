@@ -12,7 +12,7 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 
 
-## 🧑‍💻 Why Developers Need Docker Extensions
+## 🙋 Why Developers Need Docker Extensions
 
 - Extensions allows developers to seamlessly connect their favorite development tools to your application development and deployment workflows
 - Extensions augments Docker Desktop with debugging, testing, security, and networking functionalities, and build custom add-ons using the Extensions SDK
