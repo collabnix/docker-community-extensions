@@ -43,7 +43,10 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
   - [Testing](#testing)
   - [Infrastructure](#infrastructure)
   - [API](#api)
-
+- [How to Install Docker Extensions](#how-to-install-docker-extensions)
+  - [Using GitHub](#using-github)
+  - [Using Docker Hub](#using-docker-hub)
+- [Videos](#videos)
 
 ## Categories
 
