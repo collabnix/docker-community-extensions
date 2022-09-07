@@ -218,7 +218,10 @@ To install the extension in Docker Desktop, run:
 
 
 
+## Support and Community
 
+If you do get enough interest to build a Docker Extension, the team at Docker is available to support you. 
+You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #extensions, post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.
 
 
 ## References:
