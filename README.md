@@ -192,7 +192,7 @@ To install the extension in Docker Desktop, run:
  docker extension install <Docker-Hub-username>/<image-name>
 ```
 
-## Videos
+## 📹 Videos
 
 
 | Docker Extension for GOSH | Docker Extension for Slim.ai |
