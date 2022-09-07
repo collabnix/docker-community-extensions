@@ -99,12 +99,12 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [Docker Extension for Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension) - Docker Extension for Percona Monitoring and Management ![Github Stars](https://img.shields.io/github/stars/edithturn/pmm-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [RedisInsight Docker Extension for Docker Desktop](https://github.com/collabnix/redisinsight-docker-extension) - RedisInsight Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 
-## Storage
+## 💾 Storage
 
 [Storj Docker Extension](https://github.com/elek/docker-storj-extension) - A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. ![badge](https://img.shields.io/badge/-new-red) <br>
 
 
-## Security
+## 🔒 Security
 
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Extension for running Snyk scan on images<br>
 [slimdotai/dd-ext](https://hub.docker.com/r/slimdotai/dd-ext) - Slim.AI Docker Extensions<br>
@@ -112,7 +112,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
 [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 
-## Logging
+## 🪵 Logging
 
 [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) <br>
 
@@ -120,7 +120,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) ![badge](https://img.shields.io/badge/-new-red)
 
-## Testing
+## 🧪 Testing
 
 [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file<br>
 [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. ![badge](https://img.shields.io/badge/-new-red)
