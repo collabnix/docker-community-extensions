@@ -47,6 +47,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
   - [Using GitHub](#using-github)
   - [Using Docker Hub](#using-docker-hub)
 - [Videos](#videos)
+- [References](#references)
 
 ## Categories
 
