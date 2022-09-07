@@ -30,18 +30,22 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Table of Contents
 
-1. [Development](#development)
-2. [Utilities](#utilities)
-3. [Container Management and Orchestration](#container-management-and-orchestration)
-4. [Networking](#networking)
-5. [Database](#database)
-6. [Storage](#storage)
-7. [Security](#security)
-8. [Logging](#logging)
-9. [Gaming](#gaming)
-10. [Testing](#testing)
-11. [Infrastructure](#infrastructure)
-12. [API](#api)
+- [Categories](#categories)
+  - [Development](#development)
+  - [Utilities](#utilities)
+  - [Container Management and Orchestration](#container-management-and-orchestration)
+  - [Networking](#networking)
+  - [Database](#database)
+  - [Storage](#storage)
+  - [Security](#security)
+  - [Logging](#logging)
+  - [Gaming](#gaming)
+  - [Testing](#testing)
+  - [Infrastructure](#infrastructure)
+  - [API](#api)
+
+
+## Categories
 
 ## Development
 
@@ -128,9 +132,10 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices ![badge](https://img.shields.io/badge/-new-red) <br>
 [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red)  <br>
 
-# How to install Docker Extensions
 
-## i. Using GitHub
+## How to install Docker Extensions
+
+## Using GitHub
  
 ### Step 1. Clone the repository
 
@@ -166,7 +171,7 @@ To install the extension in Docker Desktop, run:
  docker extension ls
 ```
 
-## ii. Using Docker Hub
+## Using Docker Hub
 
 ### Step 1. Pull the image
 
