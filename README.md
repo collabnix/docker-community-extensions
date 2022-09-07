@@ -130,7 +130,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [kubesail/docker-extension](https://github.com/kubesail/docker-extension) - Self-hosting/running internet software on computers you own. ![badge](https://img.shields.io/badge/-new-red)<br>
 [spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
 
-## API
+## ⚙️ API
 
 [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices ![badge](https://img.shields.io/badge/-new-red) <br>
