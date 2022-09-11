@@ -206,16 +206,23 @@ To install the extension in Docker Desktop, run:
 | [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=qGUO-LYT7V0)  |
 
 
+| Docker Extension for Anchore | Docker Extension for Okteto |
+| ------------- | ------------- |
+| [![Anchore Extension](https://user-images.githubusercontent.com/42417756/189476867-d6761154-26b6-42ed-bb66-4c052ea2278e.png)](https://youtu.be/iBxClfqBKJ8) | [![Docker Extension for Okteto](https://user-images.githubusercontent.com/42417756/189477002-16ab27e1-43c4-4434-b8dc-4ac242946793.png)](https://youtu.be/RxG-dOzXiGU)  |
 
 
+| Docker Extension for Uffizzi | Docker Extension for Meshery |
+| ------------- | ------------- |
+| [![Uffizzi Extension](https://user-images.githubusercontent.com/42417756/189477103-10c79a9c-36c6-4bb5-8359-33daf8aa5a43.png)](https://youtu.be/tSi1MO8iR1E) | [![Docker Extension for Meshery](https://user-images.githubusercontent.com/42417756/189477534-0143c52e-fdbc-4206-804d-b8258aa76efe.png)](https://youtu.be/brsO6vimWmk)  |
 
 
+| Docker Extension for Trivy | Docker Extension for Telepresence |
+| ------------- | ------------- |
+| [![Trivy Extension](https://user-images.githubusercontent.com/42417756/189477656-01d01237-ceb2-49f5-aba5-c50d79f50f48.png)](https://youtu.be/RxN5BaEEGpE) | [![Docker Extension for Telepresence](https://user-images.githubusercontent.com/42417756/189477733-0042c153-7d75-4ef1-9770-372f9e2e2370.png)](https://youtu.be/sAN-6HYJnVg)  |
 
-
-
-
-
-
+| Docker Extension for Red Hat OpenShift | Docker Extension for JFrog |
+| ------------- | ------------- |
+| [![Red Hat OpenShift  Extension](https://user-images.githubusercontent.com/42417756/189477864-2359ed15-f4ee-4f12-b8c2-d55246a4cf80.png)](https://youtu.be/mO7izmiCz4A) | [![Docker Extension for JFrog](https://user-images.githubusercontent.com/42417756/189478675-a041a614-a216-4633-bbc2-ad1279ca0c1d.png)](https://youtu.be/3GHsmFpW8B4)  |
 
 
 
