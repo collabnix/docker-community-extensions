@@ -1,5 +1,6 @@
 ![stars](https://img.shields.io/github/stars/collabnix/docker-community-extensions)
 ![forks](https://img.shields.io/github/forks/collabnix/docker-community-extensions)
+![Discord](https://img.shields.io/discord/1020180904129335379)
 ![issues](https://img.shields.io/github/issues/collabnix/docker-community-extensions)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.docker-community-extensions)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
