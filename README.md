@@ -114,6 +114,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [jfrog/jfrog-docker-desktop-extension](https://hub.docker.com/r/jfrog/jfrog-docker-desktop-extension) - 🐸 Scans any of your local Docker images for security vulnerabilities 🐋<br>
 [aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
 [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
+[supertokens-docker-extension](https://github.com/supertokens/supertokens-docker-extension) -Supertokens Extension for Docker Desktop <br>
 
 ## 🪵 Logging
 
