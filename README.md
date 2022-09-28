@@ -75,6 +75,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [lucbpz/graph-view-docker-extension](https://github.com/lucbpz/graph-view-docker-extension) - Docker extensions that displays all your containers, volumes, images etc. in a network graph. ![badge](https://img.shields.io/badge/-new-red)<br>
 [thiyagu06/asyncapi-studio-docker-extension](https://github.com/thiyagu06/asyncapi-studio-docker-extension) - AsyncAPI studio Docker Extension for Docker Desktop ![badge](https://img.shields.io/badge/-new-red)<br>
 
+[docker-image-size-extractor-extension](https://github.com/jiyanpatil07/docker-image-size-extractor-extension) - Docker Image Size Extractor Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+
 ## 🫙 Container Management and Orchestration
 
 [Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment<br>
