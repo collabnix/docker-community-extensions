@@ -77,6 +77,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [docker-image-size-extractor-extension](https://github.com/jiyanpatil07/docker-image-size-extractor-extension) - Docker Image Size Extractor Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
+[dockerfile-inspector-extension](https://hub.docker.com/r/eunomie/hack-docker-ide) - DockerFile Inspector Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+
 ## 🫙 Container Management and Orchestration
 
 [Lens Extension by Mirantis for Kubernetes](https://www.mirantis.com/blog/getting-started-with-the-mirantis-lens-kubernetes-extension-in-docker-desktop)- developers can now conveniently access Kubernetes clusters in seconds within their familiar Docker Desktop environment<br>
@@ -91,6 +93,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [spurin/k9s-dd-extension](https://github.com/spurin/k9s-dd-extension) - k9s UI preconfigured to run against Docker Desktop Kubernetes ![Github Stars](https://img.shields.io/github/stars/spurin/k9s-dd-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [AlfrescoLabs/alfresco-docker-extension](https://github.com/AlfrescoLabs/alfresco-docker-extension) - Single "Run" button to deploy Alfresco platform with Docker ![Github Stars](https://img.shields.io/github/stars/AlfrescoLabs/alfresco-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [Gefyra Docker Extension](https://github.com/gefyrahq/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes! ![badge](https://img.shields.io/badge/-new-red)<br>
+[Mutagen-extension](https://mutagen.io/documentation/docker-desktop-extension) - Mutagen Docker Desktop Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## 🌐 Networking
 
@@ -103,6 +106,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [SQLCL Docker Extension](https://github.com/marcelo-ochoa/sqlcl-docker-extension) - Docker Extension for using an embedded version of Oracle SQLcl client tool ![badge](https://img.shields.io/badge/-new-red) <br>
 [Docker Extension for Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension) - Docker Extension for Percona Monitoring and Management ![Github Stars](https://img.shields.io/github/stars/edithturn/pmm-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 [RedisInsight Docker Extension for Docker Desktop](https://github.com/collabnix/redisinsight-docker-extension) - RedisInsight Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
+[SDW Docker Extension](https://github.com/marcelo-ochoa/sdw-docker-extension)- SDW Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## 💾 Storage
 
@@ -129,12 +133,14 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## 🧪 Testing
 
 [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file<br>
-[ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. ![badge](https://img.shields.io/badge/-new-red)
+[ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. ![badge](https://img.shields.io/badge/-new-red)<br>
+[Mailhog](https://github.com/litan1106/mailhog-docker-extension) - Mailhog Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## 🏗️ Infrastructure
 
 [kubesail/docker-extension](https://github.com/kubesail/docker-extension) - Self-hosting/running internet software on computers you own. ![badge](https://img.shields.io/badge/-new-red)<br>
-[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)
+[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)<br>
+[Gefyra](https://github.com/gefyrahq/gefyra-docker-desktop-extension) - Gefyra is a toolkit written in Python to organize a local development infrastructure in order to produce software for and with Kubernetes ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## ⚙️ API
 
