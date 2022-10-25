@@ -5,13 +5,9 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.docker-community-extensions)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
-
 # 👉 A Curated List of Docker Extensions
 
-
 Docker Extensions lets you use third-party tools within Docker Desktop to extend its functionality.
-
-
 
 ## 🙋 Why Developers Need Docker Extensions
 
@@ -21,13 +17,11 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 - Developers can now leverage their favorite tools directly from within Docker Desktop with one-click installation of extensions
 - Developers can now discover new ways to implement and optimize workflows in the Marketplace with Extensions from both official Extension partners and community members
 
-
 Refer to [this official link](https://www.docker.com/products/extensions/) to learn more about Docker Extensions.<br>
 
 ## ✔️ [Submit your Docker Extensions](https://bit.ly/3IcSbSf)
 
 Here is a list of Docker extensions curated by the [Collabnix](https://collabnix.com) community members.
-
 
 ## Table of Contents
 
@@ -43,19 +37,19 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
   - 🎮 [Gaming](#gaming)
   - 🧪 [Testing](#testing)
   - 🏗️ [Infrastructure](#infrastructure)
-  -  ⚙️ [API](#api)
+  - ⚙️ [API](#api)
 - [How to Install Docker Extensions](#how-to-install-docker-extensions)
   - [Using GitHub](#using-github)
   - [Using Docker Hub](#using-docker-hub)
 - 📹 [Videos](#videos)
--  💬 [Support and Community](#support-and-community)
+- 💬 [Support and Community](#support-and-community)
 - [References](#references)
 
 ## Categories
 
 ## 🧑‍💻 Development
 
-[spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
+[spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![stars](https://img.shields.io/github/stars/spurin/webden-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## 🧰 Utilities
 
@@ -64,7 +58,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 [noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension) ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension?style=flat-square) <br>
 [peacecwz/github-registry-docker-desktop-extension](https://github.com/peacecwz/github-registry-docker-desktop-extension) - Docker Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
 [caretdev/docker-intersystems-extension](https://github.com/caretdev/docker-intersystems-extension) - View Docker Images from Intersystems Docker Extension ![Github Stars](https://img.shields.io/github/stars/caretdev/docker-intersystems-extension)<br>
-[cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) -  OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm) ![badge](https://img.shields.io/badge/-new-red)<br>
+[cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) - OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm) ![badge](https://img.shields.io/badge/-new-red)<br>
 [docker/volumes-backup-extension](https://github.com/docker/volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly. ![Github Stars](https://img.shields.io/github/stars/docker/volumes-backup-extension)<br>
 [efejjota/counter-extension](https://github.com/efejjota/counter-extension) - Counter extension Showcasing data persistency, backend commands, vanilla JS UI and Docker multistage builds<br>
 [felipecruz91/bind-mount-extension](https://github.com/felipecruz91/bind-mount-extension) - Bind mount Extension which bind a dir to the extension container and list the contents of the bind mounted file ![Github Stars](https://img.shields.io/github/stars/felipecruz91/bind-mount-extension) <br>
@@ -112,7 +106,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 [Storj Docker Extension](https://github.com/elek/docker-storj-extension) - A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. ![badge](https://img.shields.io/badge/-new-red) <br>
 
-
 ## 🔒 Security
 
 [snyk/snyk-docker-desktop-extension](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension) - Docker Extension for running Snyk scan on images<br>
@@ -139,20 +132,19 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## 🏗️ Infrastructure
 
 [kubesail/docker-extension](https://github.com/kubesail/docker-extension) - Self-hosting/running internet software on computers you own. ![badge](https://img.shields.io/badge/-new-red)<br>
-[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node  ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)<br>
+[spurin/diveintoansible-extension](https://hub.docker.com/r/spurin/diveintoansible-extension) - Let's you create Ansible Lab Environment with an Ansible control node ![Github Stars](https://img.shields.io/github/stars/spurin/diveintoansible-extension)<br>
 [Gefyra](https://github.com/gefyrahq/gefyra-docker-desktop-extension) - Gefyra is a toolkit written in Python to organize a local development infrastructure in order to produce software for and with Kubernetes ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## ⚙️ API
 
 [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices ![badge](https://img.shields.io/badge/-new-red) <br>
-[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red)  <br>
-
+[samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## How to install Docker Extensions
 
 ## Using GitHub
- 
+
 ### Step 1. Clone the repository
 
 ```
@@ -169,9 +161,7 @@ Navigate into the cloned repository and run:
 
 The above command generates a Docker image named after the Docker Hub repository.
 
-
 ### Step 3. Install Docker Extensions
-
 
 To install the extension in Docker Desktop, run:
 
@@ -181,7 +171,7 @@ To install the extension in Docker Desktop, run:
 
 ### Step 4. List the Extension
 
- You can also check that the extension has been installed successfully using the following CLI command:
+You can also check that the extension has been installed successfully using the following CLI command:
 
 ```
  docker extension ls
@@ -197,7 +187,6 @@ To install the extension in Docker Desktop, run:
 
 ### Step 2. Install Docker Extensions
 
-
 To install the extension in Docker Desktop, run:
 
 ```
@@ -206,42 +195,34 @@ To install the extension in Docker Desktop, run:
 
 ## 📹 Videos
 
-
-| Docker Extension for GOSH | Docker Extension for Slim.ai |
-| ------------- | ------------- |
+| Docker Extension for GOSH                                                                                                                                              | Docker Extension for Slim.ai                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [![Gosh Extensions](https://user-images.githubusercontent.com/313480/186926472-b8ab73db-9a88-4ba8-ae4e-99a4e4f6fa90.png)](https://www.youtube.com/watch?v=eO6pnSLhvwY) | [![Slim.io Extension](https://user-images.githubusercontent.com/313480/186927752-5c6de7ee-bee9-43f3-aa27-9d8fbf63e242.png)](https://www.youtube.com/watch?v=Ka9zp_gOCdg) |
 
+| Docker Extension for Snyk                                                                                                                                             | Docker Extension for VMware Tanzu                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=qGUO-LYT7V0) |
 
-| Docker Extension for Snyk | Docker Extension for VMware Tanzu |
-| ------------- | ------------- |
-| [![Snyk Extension](https://user-images.githubusercontent.com/313480/186930126-597ab429-7367-4256-a2fe-9641f44bdf13.png)](https://www.youtube.com/watch?v=1WGMMfed3g8) | [![Docker Extension for VMware](https://user-images.githubusercontent.com/313480/186930795-de336f6d-7ec1-4f14-88fe-080e56c13687.png)](https://www.youtube.com/watch?v=qGUO-LYT7V0)  |
+| Docker Extension for Anchore                                                                                                                                | Docker Extension for Okteto                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Anchore Extension](https://user-images.githubusercontent.com/42417756/189476867-d6761154-26b6-42ed-bb66-4c052ea2278e.png)](https://youtu.be/iBxClfqBKJ8) | [![Docker Extension for Okteto](https://user-images.githubusercontent.com/42417756/189477002-16ab27e1-43c4-4434-b8dc-4ac242946793.png)](https://youtu.be/RxG-dOzXiGU) |
 
+| Docker Extension for Uffizzi                                                                                                                                | Docker Extension for Meshery                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Uffizzi Extension](https://user-images.githubusercontent.com/42417756/189477103-10c79a9c-36c6-4bb5-8359-33daf8aa5a43.png)](https://youtu.be/tSi1MO8iR1E) | [![Docker Extension for Meshery](https://user-images.githubusercontent.com/42417756/189477534-0143c52e-fdbc-4206-804d-b8258aa76efe.png)](https://youtu.be/brsO6vimWmk) |
 
-| Docker Extension for Anchore | Docker Extension for Okteto |
-| ------------- | ------------- |
-| [![Anchore Extension](https://user-images.githubusercontent.com/42417756/189476867-d6761154-26b6-42ed-bb66-4c052ea2278e.png)](https://youtu.be/iBxClfqBKJ8) | [![Docker Extension for Okteto](https://user-images.githubusercontent.com/42417756/189477002-16ab27e1-43c4-4434-b8dc-4ac242946793.png)](https://youtu.be/RxG-dOzXiGU)  |
+| Docker Extension for Trivy                                                                                                                                | Docker Extension for Telepresence                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Trivy Extension](https://user-images.githubusercontent.com/42417756/189477656-01d01237-ceb2-49f5-aba5-c50d79f50f48.png)](https://youtu.be/RxN5BaEEGpE) | [![Docker Extension for Telepresence](https://user-images.githubusercontent.com/42417756/189477733-0042c153-7d75-4ef1-9770-372f9e2e2370.png)](https://youtu.be/sAN-6HYJnVg) |
 
+| Docker Extension for Red Hat OpenShift                                                                                                                                 | Docker Extension for JFrog                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Red Hat OpenShift  Extension](https://user-images.githubusercontent.com/42417756/189477864-2359ed15-f4ee-4f12-b8c2-d55246a4cf80.png)](https://youtu.be/mO7izmiCz4A) | [![Docker Extension for JFrog](https://user-images.githubusercontent.com/42417756/189478675-a041a614-a216-4633-bbc2-ad1279ca0c1d.png)](https://youtu.be/3GHsmFpW8B4) |
 
-| Docker Extension for Uffizzi | Docker Extension for Meshery |
-| ------------- | ------------- |
-| [![Uffizzi Extension](https://user-images.githubusercontent.com/42417756/189477103-10c79a9c-36c6-4bb5-8359-33daf8aa5a43.png)](https://youtu.be/tSi1MO8iR1E) | [![Docker Extension for Meshery](https://user-images.githubusercontent.com/42417756/189477534-0143c52e-fdbc-4206-804d-b8258aa76efe.png)](https://youtu.be/brsO6vimWmk)  |
+## 💬 Support and Community
 
-
-| Docker Extension for Trivy | Docker Extension for Telepresence |
-| ------------- | ------------- |
-| [![Trivy Extension](https://user-images.githubusercontent.com/42417756/189477656-01d01237-ceb2-49f5-aba5-c50d79f50f48.png)](https://youtu.be/RxN5BaEEGpE) | [![Docker Extension for Telepresence](https://user-images.githubusercontent.com/42417756/189477733-0042c153-7d75-4ef1-9770-372f9e2e2370.png)](https://youtu.be/sAN-6HYJnVg)  |
-
-| Docker Extension for Red Hat OpenShift | Docker Extension for JFrog |
-| ------------- | ------------- |
-| [![Red Hat OpenShift  Extension](https://user-images.githubusercontent.com/42417756/189477864-2359ed15-f4ee-4f12-b8c2-d55246a4cf80.png)](https://youtu.be/mO7izmiCz4A) | [![Docker Extension for JFrog](https://user-images.githubusercontent.com/42417756/189478675-a041a614-a216-4633-bbc2-ad1279ca0c1d.png)](https://youtu.be/3GHsmFpW8B4)  |
-
-
-
-## 💬 Support and Community 
-
-If you do get enough interest to build a Docker Extension, the team at Docker is available to support you. 
+If you do get enough interest to build a Docker Extension, the team at Docker is available to support you.
 You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #extensions, post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.
-
 
 ## References:
 
