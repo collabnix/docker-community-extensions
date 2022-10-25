@@ -31,7 +31,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
   - 🌐 [Networking](#networking)
   - 🗄️ [Database](#database)
-  - 🗄️ [Database](#database)
   - 💾 [Storage](#storage)
   - 🔒 [Security](#security)
   - 🪵 [Logging](#logging)
