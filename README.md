@@ -233,3 +233,13 @@ You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #exten
 - [Minimal Docker CLI Extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
 - [Creating Docker Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
 - [Introducing Docker Extensions: DevOps and Docker Live Show (Ep 174) (Bret Fisher)](https://www.youtube.com/watch?v=BHKp7Sc3VVc) - YouTube
+
+
+# Join Discord Channel
+
+
+
+
+[![Title](https://user-images.githubusercontent.com/34368930/198940642-50d0e7f0-c670-4800-b0ea-5b95d56aaf0e.png)](https://discord.gg/ztZpXzjSmF)
+  
+
