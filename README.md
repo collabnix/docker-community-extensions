@@ -235,7 +235,7 @@ You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #exten
 - [Introducing Docker Extensions: DevOps and Docker Live Show (Ep 174) (Bret Fisher)](https://www.youtube.com/watch?v=BHKp7Sc3VVc) - YouTube
 
 
-# Join Discord Channel
+# Join Collabnix Discord Server
 
 
 
