@@ -99,6 +99,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [Docker Extension for Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension) - Docker Extension for Percona Monitoring and Management ![Github Stars](https://img.shields.io/github/stars/edithturn/pmm-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [RedisInsight Docker Extension for Docker Desktop](https://github.com/collabnix/redisinsight-docker-extension) - RedisInsight Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 - [SDW Docker Extension](https://github.com/marcelo-ochoa/sdw-docker-extension)- SDW Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
+- [Mongo Express Docker Extension](https://github.com/collabnix/mongoexpress-docker-extension) - Running Mongo DB as a Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Storage
 
