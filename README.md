@@ -71,8 +71,9 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [thiyagu06/asyncapi-studio-docker-extension](https://github.com/thiyagu06/asyncapi-studio-docker-extension) - AsyncAPI studio Docker Extension for Docker Desktop ![badge](https://img.shields.io/badge/-new-red)<br>
 - [docker-image-size-extractor-extension](https://github.com/jiyanpatil07/docker-image-size-extractor-extension) - Docker Image Size Extractor Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 - [dockerfile-inspector-extension](https://hub.docker.com/r/eunomie/hack-docker-ide) - DockerFile Inspector Extension ![badge](https://img.shields.io/badge/-new-red)<br>
-- [JSON Crack Docker Extension](https://github.com/marcelo-ochoa/jsoncrack-docker-extension) - Seamlessly visualize your JSON data instantly into graphs
+- [marcelo-ochoa/jsoncrack-docker-extension](https://github.com/marcelo-ochoa/jsoncrack-docker-extension) - Seamlessly visualize your JSON data instantly into graphs
 ![badge](https://img.shields.io/badge/-new-red)<br>
+- [ivan-curkovic/excalidraw-docker-extension](https://github.com/ivan-curkovic/excalidraw-docker-extension) - Excalidraw Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Container Management and Orchestration
 
