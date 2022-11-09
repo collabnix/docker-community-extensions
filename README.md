@@ -117,6 +117,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [aquasecurity/trivy-docker-extension](https://github.com/aquasecurity/trivy-docker-extension) - Docker Extensions for Trivy<br>
 - [l6khq/lacework-docker-extension](https://github.com/l6khq/lacework-docker-extension) - Docker Image Scanner ![Github Stars](https://img.shields.io/github/stars/l6khq/lacework-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [supertokens-docker-extension](https://github.com/supertokens/supertokens-docker-extension) -Supertokens Extension for Docker Desktop <br>
+- [deepfence/yarahunter-docker-extensionhttps](https://github.com/deepfence/yarahunter-docker-extension) - ⛴️Docker extension for deepfence/YaraHunter🔎 ![badge](https://img.shields.io/badge/-new-red)<br>
+- [deepfence/secretscanner-docker-extension](https://github.com/deepfence/secretscanner-docker-extension) - ⛴️ Docker extension for deepfence/SecretScanner 🔐 [badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Logging
 
