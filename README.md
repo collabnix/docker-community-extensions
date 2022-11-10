@@ -26,8 +26,8 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ## Table of Contents
 
 - [Categories](#categories)
-  - 🧑‍💻 [Development](#development)
   - 🧰 [Utilities](#utilities)
+  - 🧑‍💻 [Development](#development)
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
   - 🌐 [Networking](#networking)
   - 🗄️ [Database](#database)
@@ -47,9 +47,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Categories
 
-## Development
-
-- [spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Utilities
 
@@ -74,6 +71,10 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [marcelo-ochoa/jsoncrack-docker-extension](https://github.com/marcelo-ochoa/jsoncrack-docker-extension) - Seamlessly visualize your JSON data instantly into graphs
 ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ivan-curkovic/excalidraw-docker-extension](https://github.com/ivan-curkovic/excalidraw-docker-extension) - Excalidraw Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+
+## Development
+
+- [spurin/webden-extension](https://github.com/spurin/webden-extension) - Open source mobile and tablet friendly alternative to JSFiddle and JSBin ![Github Stars](https://img.shields.io/github/stars/spurin/webden) ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Container Management and Orchestration
 
