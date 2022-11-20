@@ -71,6 +71,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - [marcelo-ochoa/jsoncrack-docker-extension](https://github.com/marcelo-ochoa/jsoncrack-docker-extension) - Seamlessly visualize your JSON data instantly into graphs
 ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ivan-curkovic/excalidraw-docker-extension](https://github.com/ivan-curkovic/excalidraw-docker-extension) - Excalidraw Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+- [ronakforgit/n8n-docker-extension](https://github.com/ronakforgit/n8n-docker-extension) - n8n Workflow automation tool docker extension![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Development
 
