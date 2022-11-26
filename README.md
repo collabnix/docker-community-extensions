@@ -72,6 +72,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ivan-curkovic/excalidraw-docker-extension](https://github.com/ivan-curkovic/excalidraw-docker-extension) - Excalidraw Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ronakforgit/n8n-docker-extension](https://github.com/ronakforgit/n8n-docker-extension) - n8n Workflow automation tool docker extension![badge](https://img.shields.io/badge/-new-red)<br>
+* [Flame-Graph-Extension](https://github.com/dgageot/flamegraph-extension)- Flame Graph Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## Development
 
