@@ -68,6 +68,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | InterSystems | Access InterSystems Container Registry, public and private images of such products as IRIS and IRIS for Health and many others in one place | [Link](https://hub.docker.com/extensions/caretdev/intersystems-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/caretdev/intersystems-extension) |
 | Ddosify | High-performance, open-source and simple load testing tool, written in Golang | [Link](https://hub.docker.com/extensions/ddosify/ddosify-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ddosify/ddosify-docker-extension) |
 | OpenShift | Easily deploy and test applications onto OpenShift | [Link](https://hub.docker.com/extensions/redhatdeveloper/openshift-dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/redhatdeveloper/openshift-dd-ext) |
+| Epinio | Push from source to Kubernetes in one step | [Link](https://hub.docker.com/extensions/splatform/epinio-docker-desktop) | ![Docker Pulls](https://img.shields.io/docker/pulls/splatform/epinio-docker-desktop) |
+| Jfrog |Scan your Docker images for vulnerabilities with JFrog Xray.|[Link](https://hub.docker.com/extensions/jfrog/jfrog-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/jfrog/jfrog-docker-desktop-extension) |
 
 
 
