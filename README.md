@@ -59,6 +59,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | Portainer | Docker container management made simple, with the world’s most popular GUI-based container management platform | [Link](https://hub.docker.com/extensions/portainer/portainer-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer-docker-extension) |
 | Okteto | Remote Development for Docker Compose | [Link](https://hub.docker.com/extensions/okteto/docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/okteto/docker-desktop-extension) |
 | Ambassador Telepresence | Instantly bridge your workstation with Kubernetes clusters in the cloud | [Link](https://hub.docker.com/extensions/ambassador/telepresence-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ambassador/telepresence-docker-extension) |
+| Snyk | Scan your remote or local image and detect any contained vulnerabilities |  [Link](https://hub.docker.com/extensions/snyk/snyk-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension) |
+| Slim.AI | Deep dive into the construction of your images. Know what's in your containers | [Link](https://hub.docker.com/extensions/slimdotai/dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/slimdotai/dd-ext) |
 
 
 ## Categories
