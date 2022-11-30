@@ -66,6 +66,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | Anchore | Content and security analysis for container images | [Link](https://hub.docker.com/extensions/anchore/docker-desktop-extension) |  ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/docker-desktop-extension) |
 | Calyptia Core | Use Calyptia Core within Docker Desktop to manage observability | [Link](https://hub.docker.com/extensions/calyptia/core-docker-desktop) | ![Docker Pulls](https://img.shields.io/docker/pulls/calyptia/core-docker-desktop) |
 | InterSystems | Access InterSystems Container Registry, public and private images of such products as IRIS and IRIS for Health and many others in one place | [Link](https://hub.docker.com/extensions/caretdev/intersystems-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/caretdev/intersystems-extension) |
+| Ddosify | High-performance, open-source and simple load testing tool, written in Golang | [Link](https://hub.docker.com/extensions/ddosify/ddosify-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ddosify/ddosify-docker-extension) |
+| OpenShift | Easily deploy and test applications onto OpenShift | [Link](https://hub.docker.com/extensions/redhatdeveloper/openshift-dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/redhatdeveloper/openshift-dd-ext) |
 
 
 
