@@ -45,7 +45,6 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 - 💬 [Support and Community](#support-and-community)
 - [References](#references)
 
-## Categories
 
 ## List of Docker Marketplace Extensions
 
@@ -62,6 +61,7 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | Ambassador Telepresence | Instantly bridge your workstation with Kubernetes clusters in the cloud | [Link](https://hub.docker.com/extensions/ambassador/telepresence-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ambassador/telepresence-docker-extension) |
 
 
+## Categories
 
 
 ## Utilities
