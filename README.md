@@ -63,6 +63,10 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | Snyk | Scan your remote or local image and detect any contained vulnerabilities |  [Link](https://hub.docker.com/extensions/snyk/snyk-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension) |
 | Slim.AI | Deep dive into the construction of your images. Know what's in your containers | [Link](https://hub.docker.com/extensions/slimdotai/dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/slimdotai/dd-ext) |
 | Lacework Scanner | Minimize the vulnerabilities before the images go into production | [Link](https://hub.docker.com/extensions/lacework/lacework-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/lacework/lacework-docker-extension) |
+| Anchore | Content and security analysis for container images | [Link](https://hub.docker.com/extensions/anchore/docker-desktop-extension) |  ![Docker Pulls](https://img.shields.io/docker/pulls/anchore/docker-desktop-extension) |
+| Calyptia Core | Use Calyptia Core within Docker Desktop to manage observability | [Link](https://hub.docker.com/extensions/calyptia/core-docker-desktop) | ![Docker Pulls](https://img.shields.io/docker/pulls/calyptia/core-docker-desktop) |
+| InterSystems | Access InterSystems Container Registry, public and private images of such products as IRIS and IRIS for Health and many others in one place | [Link](https://hub.docker.com/extensions/caretdev/intersystems-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/caretdev/intersystems-extension) |
+
 
 
 ## Categories
