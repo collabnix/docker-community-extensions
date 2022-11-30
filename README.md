@@ -61,6 +61,7 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | Ambassador Telepresence | Instantly bridge your workstation with Kubernetes clusters in the cloud | [Link](https://hub.docker.com/extensions/ambassador/telepresence-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ambassador/telepresence-docker-extension) |
 | Snyk | Scan your remote or local image and detect any contained vulnerabilities |  [Link](https://hub.docker.com/extensions/snyk/snyk-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/snyk/snyk-docker-desktop-extension) |
 | Slim.AI | Deep dive into the construction of your images. Know what's in your containers | [Link](https://hub.docker.com/extensions/slimdotai/dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/slimdotai/dd-ext) |
+| Lacework Scanner | Minimize the vulnerabilities before the images go into production | [Link](https://hub.docker.com/extensions/lacework/lacework-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/lacework/lacework-docker-extension) |
 
 
 ## Categories
