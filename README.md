@@ -47,6 +47,22 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## Categories
 
+## List of Docker Marketplace Extensions
+
+Here is a list of suggestions or ideas for new Docker Extensions:
+
+| Name                                      | Description              | DockerHub | Popularity |
+| ------------------------------------------------------- | ------------------------- | ------------------------- |------------------------- |
+| Disk Usage                                              | View disk space used by Docker and reclaim space in one click    | [Link](https://hub.docker.com/extensions/docker/disk-usage-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) |
+| Logs Explorer | View all container logs in one place so you can debug and troubleshoot faster | [Link](https://hub.docker.com/extensions/docker/logs-explorer-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |
+| Resource Usage | Monitor and manage live data stream for running containers | [Link](https://hub.docker.com/extensions/docker/resource-usage-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/resource-usage-extension) |
+| Uffizzi | Uffizzi lets you create and manage full-stack previews in the cloud from Docker Compose |[Link](https://hub.docker.com/extensions/uffizzi/docker-desktop-extension) |  ![Docker Pulls](https://img.shields.io/docker/pulls/uffizzi/docker-desktop-extension) |
+| Portainer | Docker container management made simple, with the world’s most popular GUI-based container management platform | [Link](https://hub.docker.com/extensions/portainer/portainer-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/portainer/portainer-docker-extension) |
+| Okteto | Remote Development for Docker Compose | [Link](https://hub.docker.com/extensions/okteto/docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/okteto/docker-desktop-extension) |
+| Ambassador Telepresence | Instantly bridge your workstation with Kubernetes clusters in the cloud | [Link](https://hub.docker.com/extensions/ambassador/telepresence-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/ambassador/telepresence-docker-extension) |
+
+
+
 
 ## Utilities
 
