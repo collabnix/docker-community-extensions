@@ -70,7 +70,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 |16| OpenShift | Easily deploy and test applications onto OpenShift | [Link](https://hub.docker.com/extensions/redhatdeveloper/openshift-dd-ext) | ![Docker Pulls](https://img.shields.io/docker/pulls/redhatdeveloper/openshift-dd-ext) |
 |17| Epinio | Push from source to Kubernetes in one step | [Link](https://hub.docker.com/extensions/splatform/epinio-docker-desktop) | ![Docker Pulls](https://img.shields.io/docker/pulls/splatform/epinio-docker-desktop) |
 |18| Jfrog |Scan your Docker images for vulnerabilities with JFrog Xray.|[Link](https://hub.docker.com/extensions/jfrog/jfrog-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/jfrog/jfrog-docker-desktop-extension) |
-| 19| vcluster | Manage your vclusters running on docker-desktop. | [Link](https://hub.docker.com/extensions/loftsh/vcluster-dd-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/loftsh/vcluster-dd-extension) | 
+| 19| vcluster | Manage your vclusters running on docker-desktop. | [Link](https://hub.docker.com/extensions/loftsh/vcluster-dd-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/loftsh/vcluster-dd-extension) |
+| 20 | Newman |Run your Postman collections from Docker Desktop | [Link](https://hub.docker.com/extensions/joycelin79/newman-extension)| ![Docker Pulls](https://img.shields.io/docker/pulls/joycelin79/newman-extension) |
 
 
 
