@@ -169,7 +169,6 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 ## Testing
 
 - [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file<br>
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. ![badge](https://img.shields.io/badge/-new-red)<br>
 - [Mailhog](https://github.com/litan1106/mailhog-docker-extension) - Mailhog Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Infrastructure
@@ -181,7 +180,6 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 ## API
 
 - [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
-- [microcks/microcks-docker-desktop-extension](https://github.com/microcks/microcks-docker-desktop-extension) - Kubernetes native tool for mocking and testing API and microservices ![badge](https://img.shields.io/badge/-new-red) <br>
 - [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red) <br>
 - [felipecruz91/dotnet-api-docker-extension](https://github.com/felipecruz91/dotnet-api-docker-extension) - A sample .NET 6 WebAPI used as a backend for a Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 
@@ -277,6 +275,8 @@ You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #exten
 - [Minimal frontend extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
 - [Minimal React Extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
 - [Minimal Docker CLI Extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
+- [Automate API Tests and Debug in Docker With Postman’s Newman Extension](https://www.docker.com/blog/automate-api-tests-and-debug-in-docker-with-postmans-newman-extension/)
+- [Enable Cloud-Native Log Observability With Parseable](https://www.docker.com/blog/enable-cloud-native-log-observability-with-parseable/)
 - [Creating Docker Extensions (James Spurin)](https://www.youtube.com/watch?v=HqCnOhbcobE) - YouTube
 - [Introducing Docker Extensions: DevOps and Docker Live Show (Ep 174) (Bret Fisher)](https://www.youtube.com/watch?v=BHKp7Sc3VVc) - YouTube
 
