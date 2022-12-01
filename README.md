@@ -72,6 +72,11 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 |18| Jfrog |Scan your Docker images for vulnerabilities with JFrog Xray.|[Link](https://hub.docker.com/extensions/jfrog/jfrog-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/jfrog/jfrog-docker-desktop-extension) |
 | 19| vcluster | Manage your vclusters running on docker-desktop. | [Link](https://hub.docker.com/extensions/loftsh/vcluster-dd-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/loftsh/vcluster-dd-extension) |
 | 20 | Newman |Run your Postman collections from Docker Desktop | [Link](https://hub.docker.com/extensions/joycelin79/newman-extension)| ![Docker Pulls](https://img.shields.io/docker/pulls/joycelin79/newman-extension) |
+| 21 | Lens | Run Lens Kubernetes on your Docker Desktop | [Link](https://hub.docker.com/extensions/k8slens/lens-dd-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/k8slens/lens-dd-extension) |
+| 22 | Microcks | API Mocking and Testing for REST, GraphQL, gRPC and AsyncAPI | [Link](https://hub.docker.com/extensions/microcks/microcks-docker-desktop-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/microcks/microcks-docker-desktop-extension) |
+| 23 | Open Source management tool for PostgreSQL | Docker Extension for using an embedded PGAdmin4 Open Source management tool for PostgreSQL | [Link](https://hub.docker.com/extensions/mochoa/pgadmin4-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/mmochoa/pgadmin4-docker-extension) |
+| 24 | Mini Cluster | "Mini Cluster" enables you run a local Apache Mesos cluster | [Link](https://hub.docker.com/extensions/avhost/docker-mesos-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/avhost/docker-mesos-extension) |
+| 25 | Gosh | Build your decentralized and secure software supply chain with Docker and Git Open Source Hodler | [Link](https://hub.docker.com/extensions/teamgosh/docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/teamgosh/docker-extension) |
 
 
 
