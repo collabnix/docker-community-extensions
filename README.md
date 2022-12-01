@@ -77,6 +77,11 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | 23 | Open Source management tool for PostgreSQL | Docker Extension for using an embedded PGAdmin4 Open Source management tool for PostgreSQL | [Link](https://hub.docker.com/extensions/mochoa/pgadmin4-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/mochoa/pgadmin4-docker-extension) |
 | 24 | Mini Cluster | "Mini Cluster" enables you run a local Apache Mesos cluster | [Link](https://hub.docker.com/extensions/avhost/docker-mesos-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/avhost/docker-mesos-extension) |
 | 25 | Gosh | Build your decentralized and secure software supply chain with Docker and Git Open Source Hodler | [Link](https://hub.docker.com/extensions/teamgosh/docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/teamgosh/docker-extension) |
+| 26 | Drone CI | Run Continuous Integration & Delivery Pipelines (CI/CD) from within Docker Desktop. | [Link](https://hub.docker.com/extensions/drone/drone-ci-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/drone/drone-ci-docker-extension) |
+| 27 |Aqua Trivy | Run unlimited vulnerability scans against remote or locally stored images | [Link](https://hub.docker.com/extensions/aquasec/trivy-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/aquasec/trivy-docker-extension) |
+| 28 | Meshery | Meshery is the open source, cloud native manager that enables the adoption, operation, and management of Kubernetes, any service mesh, and their workloads. | [Link](https://hub.docker.com/extensions/meshery/docker-extension-meshery) | ![Docker Pulls](https://img.shields.io/docker/pulls/meshery/docker-extension-meshery) |
+| 29 | Oracle SQLcl client tool | Docker Extension for using an embedded version of Oracle SQLcl client tool | [Link](https://hub.docker.com/extensions/mochoa/sqlcl-docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/mochoa/sqlcl-docker-extension) |
+| 30 | Tailscale | Tailscale lets you securely connect to your Docker containers without exposing them to the public internet. | [Link](https://hub.docker.com/extensions/tailscale/docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension) |
 
 
 
