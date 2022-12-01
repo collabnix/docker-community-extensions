@@ -90,20 +90,16 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 
 ## Utilities
 
-- [docker/disk-usage-extension](https://hub.docker.com/r/docker/disk-usage-extension) - View disk space used by Docker and what it's used for. Reclaim disk space in one click ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) <br>
 - [prakhar1989/dive-in](https://github.com/prakhar1989/dive-in) - A Docker extension to help you explore a docker image and discover ways to shrink the size ![badge](https://img.shields.io/badge/-new-red)<br>
 - [rumpl/docker-extension-golang-playground](https://github.com/rumpl/docker-extension-golang-playground) - Golang playground in Docker Desktop ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
 - [noelm/swagger-editor-extension](https://github.com/n-murphy/swagger-editor-docker-extension) - Swagger Editor Docker Extension for Docker Desktop ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension) ![Docker Pulls](https://img.shields.io/docker/pulls/noelm/swagger-editor-extension?style=flat-square) <br>
 - [peacecwz/github-registry-docker-desktop-extension](https://github.com/peacecwz/github-registry-docker-desktop-extension) - Docker Extension for Github Registry ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
-- [caretdev/docker-intersystems-extension](https://github.com/caretdev/docker-intersystems-extension) - View Docker Images from Intersystems Docker Extension ![Github Stars](https://img.shields.io/github/stars/caretdev/docker-intersystems-extension)<br>
 - [cedricziel/dd-extension-lgtm](https://github.com/cedricziel/dd-extension-lgtm) - OpenTelemetry enabled Grafana LGTM stack ![Github Stars](https://img.shields.io/github/stars/cedricziel/dd-extension-lgtm) <br>
-- [docker/volumes-backup-extension](https://github.com/docker/volumes-backup-extension) - Back up, clone, restore, and share Docker volumes effortlessly. ![Github Stars](https://img.shields.io/github/stars/docker/volumes-backup-extension)<br>
 - [efejjota/counter-extension](https://github.com/efejjota/counter-extension) - Counter extension Showcasing data persistency, backend commands, vanilla JS UI and Docker multistage builds<br>
 - [felipecruz91/bind-mount-extension](https://github.com/felipecruz91/bind-mount-extension) - Bind mount Extension which bind a dir to the extension container and list the contents of the bind mounted file ![Github Stars](https://img.shields.io/github/stars/felipecruz91/bind-mount-extension) <br>
 - [tomwillfixit/docker-extension](https://github.com/tomwillfixit/docker-extension) - Turn any script into a Docker Extension in about 3 minutes <br>
 - [jatin711-debug/request-docker-extension](https://github.com/jatin711-debug/request-docker-extension) - Docker Desktop Request Mapper <br>
 - [awaldow/docker-desktop-healthchecks-ui](https://github.com/awaldow/docker-desktop-healthchecks-ui)- Docker Desktop Extension to show container healthchecks output. ![badge](https://img.shields.io/badge/-new-red)<br>
-- [harness/drone-desktop-docker-extension](https://github.com/harness/drone-desktop-docker-extension) - A Docker Desktop extension to run and manage drone pipelines. ![badge](https://img.shields.io/badge/-new-red)<br>
 - [lucbpz/graph-view-docker-extension](https://github.com/lucbpz/graph-view-docker-extension) - Docker extensions that displays all your containers, volumes, images etc. in a network graph. ![badge](https://img.shields.io/badge/-new-red)<br>
 - [thiyagu06/asyncapi-studio-docker-extension](https://github.com/thiyagu06/asyncapi-studio-docker-extension) - AsyncAPI studio Docker Extension for Docker Desktop ![badge](https://img.shields.io/badge/-new-red)<br>
 - [docker-image-size-extractor-extension](https://github.com/jiyanpatil07/docker-image-size-extractor-extension) - Docker Image Size Extractor Extension ![badge](https://img.shields.io/badge/-new-red)<br>
@@ -112,9 +108,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ivan-curkovic/excalidraw-docker-extension](https://github.com/ivan-curkovic/excalidraw-docker-extension) - Excalidraw Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 - [ronakforgit/n8n-docker-extension](https://github.com/ronakforgit/n8n-docker-extension) - n8n Workflow automation tool docker extension![badge](https://img.shields.io/badge/-new-red)<br>
-* [Flame-Graph-Extension](https://github.com/dgageot/flamegraph-extension)- Flame Graph Extension ![badge](https://img.shields.io/badge/-new-red) <br>
-
-* [CTOai](https://github.com/cto-ai/docker-extension-zsh)- CTO.ai turns any cloud infrastructure into a powerful custom PaaS so you can increase your teams CI/CD velocity by up to 200% without hiring more DevOps ![badge](https://img.shields.io/badge/-new-red) <br>
+- [Flame-Graph-Extension](https://github.com/dgageot/flamegraph-extension)- Flame Graph Extension ![badge](https://img.shields.io/badge/-new-red) <br>
+- [CTOai Docker Extension](https://github.com/cto-ai/docker-extension-zsh)- CTO.ai turns any cloud infrastructure into a powerful custom PaaS so you can increase your teams CI/CD velocity by up to 200% without hiring more DevOps ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## Development
 
@@ -137,19 +132,16 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 
 ## Networking
 
-- [tailscale/docker-extension](https://hub.docker.com/r/tailscale/docker-extension) - Docker Extension adding Tailscale networking ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension?style=flat-square)<br>
-
-* [Boring Proxy](https://github.com/boringproxy/boringproxy-docker-extension)- Boring Proxy Docker Extension  ![badge](https://img.shields.io/badge/-new-red) <br>
+- [Boring Proxy](https://github.com/boringproxy/boringproxy-docker-extension)- Boring Proxy Docker Extension  ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## Database
 
-- [PGAdmin4 extension for Docker Desktop](https://hub.docker.com/r/mochoa/pgadmin4-docker-extension) - PostgreSQL Admin Extension<br>
 - [OracleXE 21c Docker Extension](https://hub.docker.com/r/mochoa/oraclexe-docker-extension) - Docker Extension for using OracleXE 21c<br>
-- [SQLCL Docker Extension](https://github.com/marcelo-ochoa/sqlcl-docker-extension) - Docker Extension for using an embedded version of Oracle SQLcl client tool ![badge](https://img.shields.io/badge/-new-red) <br>
 - [Docker Extension for Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension) - Docker Extension for Percona Monitoring and Management ![Github Stars](https://img.shields.io/github/stars/edithturn/pmm-docker-extension) ![badge](https://img.shields.io/badge/-new-red)<br>
 - [RedisInsight Docker Extension for Docker Desktop](https://github.com/collabnix/redisinsight-docker-extension) - RedisInsight Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 - [SDW Docker Extension](https://github.com/marcelo-ochoa/sdw-docker-extension)- SDW Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
 - [Mongo Express Docker Extension](https://github.com/collabnix/mongoexpress-docker-extension) - Running Mongo DB as a Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+- [Neo4j Docker Extension](https://github.com/collabnix/neo4j-docker-extension) -  Running Neo4j as a Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
 
 ## Storage
 
