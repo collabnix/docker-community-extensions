@@ -51,7 +51,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 Here is a list of suggestions or ideas for new Docker Extensions:
 
 | S.No. | Name of Extensions                                     | Description              | Docker Desktop | DockerHub | Popularity |
-|-------| ------------------------------------------------------- | ------------------------- | ------------------------- |------------------------- |
+|-------| ------------------------------------------------------- | ------------------------- | ------------------------- |------------------------- | ------------------------- |
 | 1| Disk Usage                                              | View disk space used by Docker and reclaim space in one click    | [Install](https://open.docker.com/extensions/marketplace?extensionId=docker/disk-usage-extension) | [Link](https://hub.docker.com/extensions/docker/disk-usage-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/disk-usage-extension) |
 | 2| Logs Explorer | View all container logs in one place so you can debug and troubleshoot faster | [Install](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension) | [Link](https://hub.docker.com/extensions/docker/logs-explorer-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |
 | 3| Resource Usage | Monitor and manage live data stream for running containers | [Install](https://open.docker.com/extensions/marketplace?extensionId=docker/resource-usage-extension) | [Link](https://hub.docker.com/extensions/docker/resource-usage-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/docker/resource-usage-extension) |
