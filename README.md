@@ -21,7 +21,7 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 
 
 
-## [:bulb: Submit your Docker Extensions Ideas](https://github.com/docker/extension-ideas/discussions)
+## [💡 Submit your Docker Extensions Ideas](https://github.com/docker/extension-ideas/discussions)
 
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
