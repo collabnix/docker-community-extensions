@@ -69,7 +69,6 @@ Here is a list of Docker Extensions available in Docker Hub:
 ## Table of Contents
 
 - [Categories](#categories)
-  - 🇼 [Wasm](#wasm)
   - 🧰 [Utilities](#utilities)
   - 🧑‍💻 [Development](#development)
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
@@ -82,6 +81,7 @@ Here is a list of Docker Extensions available in Docker Hub:
   - 🧪 [Testing](#testing)
   - 🏗️ [Infrastructure](#infrastructure)
   - ⚙️ [API](#api)
+  - 🇼 [WebAssembly](#webassembly)
 - [How to Install Docker Extensions](#how-to-install-docker-extensions)
   - [Using GitHub](#using-github)
   - [Using Docker Hub](#using-docker-hub)
@@ -91,7 +91,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Categories
 
-## Wasm
+## WebAssembly
 
 | S.No. | Name of Extensions                                     | Description              |  Docker Desktop | GitHub | Popularity |
 |-------| ------------------------------------------------------- | -------------------------| ------------------- | ------------------------- | ------------------------- |
@@ -101,8 +101,8 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Utilities
 
-| S.No. | Name of Extensions                                     | Description              |  Docker Desktop | GitHub | Popularity |
-|-------| ------------------------------------------------------- | -------------------------| ------------------- | ------------------------- | ------------------------- |
+| S.No. | Name of Extensions                                     | Description              |  Docker Desktop     | GitHub                  | Popularity |
+|-------| ------------------------------------------------------ | -------------------------| ------------------- | ------------------------- | ------------------------- |
 | 1| Golang Playground | Golang playground in Docker Desktop  |   [Install](https://open.docker.com/extensions/marketplace?extensionId=rumpl/docker-extension-golang-playground) | [Link](https://github.com/rumpl/docker-extension-golang-playground) | ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)<br>
 | 2 | Swagger Editor | Swagger Editor Docker Extension for Docker Desktop | [Install](https://open.docker.com/extensions/marketplace?extensionId=noelm/swagger-editor-extension&tag=4.4.2)  | [Link](https://github.com/n-murphy/swagger-editor-docker-extension) | ![Github Stars](https://img.shields.io/github/stars/n-murphy/swagger-editor-docker-extension) |<br>
 | 3| GitHub Registry | Docker Extension for Github Registry | [Install](https://open.docker.com/extensions/marketplace?extensionId=peacecwz/github-registry&tag=0.1.0) | [Link](https://github.com/peacecwz/github-registry-docker-desktop-extension) | ![Github Stars](https://img.shields.io/github/stars/peacecwz/github-registry-docker-desktop-extension)<br>
@@ -121,7 +121,6 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 16 | n8n ![badge](https://img.shields.io/badge/-new-red) | n8n Workflow automation tool docker extension  |[Install](https://open.docker.com/extensions/marketplace?extensionId=ronakpatildocker/public&tag=latest) | [Link](https://github.com/ronakforgit/n8n-docker-extension) | ![Github Stars](https://img.shields.io/github/stars/ronakforgit/n8n-docker-extension) <br>
 | 17 | FlameGraph ![badge](https://img.shields.io/badge/-new-red) | Flame Graph Extension |[Install](https://open.docker.com/extensions/marketplace?extensionId=dgageot/flamegraph-extension&tag=latest) | [Link](https://github.com/dgageot/flamegraph-extension) | ![Github Stars](https://img.shields.io/github/stars/dgageot/flamegraph-extension) <br>
 | 18 | CTOai ![badge](https://img.shields.io/badge/-new-red) |CTO.ai turns any cloud infrastructure into a powerful custom PaaS so you can increase your teams CI/CD velocity by up to 200% without hiring more DevOps|[Install](https://open.docker.com/extensions/marketplace?extensionId=ctoai/docker-extension-zsh&tag=latest) | [Link](https://github.com/cto-ai/docker-extension-zsh) | ![Github Stars](https://img.shields.io/github/stars/cto-ai/docker-extension-zsh) <br>
-
 
 
 ## Development
@@ -196,6 +195,12 @@ Here is a list of Docker Extensions available in Docker Hub:
 - [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run [Install](https://open.docker.com/extensions/marketplace?extensionId=joycelin79/newman-extension&tag=latest) ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 - [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red) <br>
 - [felipecruz91/dotnet-api-docker-extension](https://github.com/felipecruz91/dotnet-api-docker-extension) - A sample .NET 6 WebAPI used as a backend for a Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
+
+## WebAssembly
+
+| S.No. | Name of Extensions                                     | Description              |  Docker Desktop | GitHub | Popularity |
+|-------| ------------------------------------------------------- | -------------------------| ------------------- | ------------------------- | ------------------------- |
+| 1 | Wasm Docker Extension | An example Docker Desktop extension that uses Wasm for the backend | [Install](https://open.docker.com/extensions/marketplace?extensionId=cmrigney/wasm-docker-extension) | [Link](https://github.com/cmrigney/wasm-docker-extension) | 
 
 ## How to install Docker Extensions
 
