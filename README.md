@@ -26,7 +26,7 @@ Here is a list of Docker extensions curated by the [Collabnix](https://collabnix
 
 ## List of Docker Marketplace Extensions
 
-Here is a list of suggestions or ideas for new Docker Extensions:
+Here is a list of Docker Extensions available in Docker Hub:
 
 | S.No. | Name of Extensions                                     | Description              | Docker Desktop | DockerHub | Popularity |
 |-------| ------------------------------------------------------- | ------------------------- | ------------------------- |------------------------- | ------------------------- |
