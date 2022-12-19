@@ -23,28 +23,6 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 
 Here is a list of Docker extensions curated by the [Collabnix](https://collabnix.com) community members.
 
-## Table of Contents
-
-- [Categories](#categories)
-  - 🧰 [Utilities](#utilities)
-  - 🧑‍💻 [Development](#development)
-  - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
-  - 🌐 [Networking](#networking)
-  - 🗄️ [Database](#database)
-  - 💾 [Storage](#storage)
-  - 🔒 [Security](#security)
-  - 🪵 [Logging](#logging)
-  - 🎮 [Gaming](#gaming)
-  - 🧪 [Testing](#testing)
-  - 🏗️ [Infrastructure](#infrastructure)
-  - ⚙️ [API](#api)
-- [How to Install Docker Extensions](#how-to-install-docker-extensions)
-  - [Using GitHub](#using-github)
-  - [Using Docker Hub](#using-docker-hub)
-- 📹 [Videos](#videos)
-- 💬 [Support and Community](#support-and-community)
-- [References](#references)
-
 
 ## List of Docker Marketplace Extensions
 
@@ -85,7 +63,27 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | 31 | Akita API | Drop in Agent for API Monitoring and Observability | [Install](https://open.docker.com/extensions/marketplace?extensionId=akitasoftware/akita-docker-extension) | [Link](https://hub.docker.com/extensions/akitasoftware/akita-docker-extension) |![Docker Pulls](https://img.shields.io/docker/pulls/akitasoftware/akita-docker-extension) |
 | 32 | Dive-In | Explore docker images, layer contents, and discover ways to shrink the size of your Docker/OCI image | [Install](https://open.docker.com/extensions/marketplace?extensionId=prakhar1989/dive-in) | [Link](https://hub.docker.com/extensions/prakhar1989/dive-in) |![Docker Pulls](https://img.shields.io/docker/pulls/prakhar1989/dive-in) |
 
+## Table of Contents
 
+- [Categories](#categories)
+  - 🧰 [Utilities](#utilities)
+  - 🧑‍💻 [Development](#development)
+  - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
+  - 🌐 [Networking](#networking)
+  - 🗄️ [Database](#database)
+  - 💾 [Storage](#storage)
+  - 🔒 [Security](#security)
+  - 🪵 [Logging](#logging)
+  - 🎮 [Gaming](#gaming)
+  - 🧪 [Testing](#testing)
+  - 🏗️ [Infrastructure](#infrastructure)
+  - ⚙️ [API](#api)
+- [How to Install Docker Extensions](#how-to-install-docker-extensions)
+  - [Using GitHub](#using-github)
+  - [Using Docker Hub](#using-docker-hub)
+- 📹 [Videos](#videos)
+- 💬 [Support and Community](#support-and-community)
+- [References](#references)
 
 ## Categories
 
