@@ -195,7 +195,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 - [loopDelicious/docker-extension](https://github.com/loopDelicious/docker-extension) - Postman collection run [Install](https://open.docker.com/extensions/marketplace?extensionId=joycelin79/newman-extension&tag=latest) ![Github Stars](https://img.shields.io/github/stars/loopDelicious/docker-extension)<br>
 - [samoht/docker-extension-ocaml](https://github.com/samoht/docker-extension-ocaml) - Docker Extensions in OCaml. OCaml is a general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. ![badge](https://img.shields.io/badge/-new-red) <br>
 - [felipecruz91/dotnet-api-docker-extension](https://github.com/felipecruz91/dotnet-api-docker-extension) - A sample .NET 6 WebAPI used as a backend for a Docker Extension ![badge](https://img.shields.io/badge/-new-red) <br>
-- [Hoppscotch Docker Extension](https://github.com/edithturn/hoppscotch-extension) - A Docker Extension for Hoppscotch ![badge](https://img.shields.io/badge/-new-red) <br>
+- [Hoppscotch Docker Extension](https://github.com/edithturn/hoppscotch-extension) - A Docker Extension for Hoppscotch [Install](https://open.docker.com/extensions/marketplace?extensionId=edithturn/hoppscotch-extension&tag=latest) ![badge](https://img.shields.io/badge/-new-red) <br>
 
 ## WebAssembly
 
