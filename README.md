@@ -19,9 +19,12 @@ Docker Extensions lets you use third-party tools within Docker Desktop to extend
 
 Refer to [this official link](https://www.docker.com/products/extensions/) to learn more about Docker Extensions.<br>
 
-## ✔️ [Submit your Docker Extensions Ideas](https://github.com/docker/extension-ideas/discussions)
 
-Here is a list of Docker extensions curated by the [Collabnix](https://collabnix.com) community members.
+
+## [:bulb: Submit your Docker Extensions Ideas](https://github.com/docker/extension-ideas/discussions)
+
+Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
+
 
 
 ## List of Docker Marketplace Extensions
