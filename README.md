@@ -91,13 +91,6 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Categories
 
-## WebAssembly
-
-| S.No. | Name of Extensions                                     | Description              |  Docker Desktop | GitHub | Popularity |
-|-------| ------------------------------------------------------- | -------------------------| ------------------- | ------------------------- | ------------------------- |
-| 1 | Wasm Docker Extension | An example Docker Desktop extension that uses Wasm for the backend | [Install](https://open.docker.com/extensions/marketplace?extensionId=cmrigney/wasm-docker-extension) | [Link](https://github.com/cmrigney/wasm-docker-extension) | ![Github Stars](https://img.shields.io/github/stars/cmrigney/wasm-docker-extension)<br>
-
-
 
 ## Utilities
 
