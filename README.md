@@ -65,6 +65,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 30 | Tailscale | Tailscale lets you securely connect to your Docker containers without exposing them to the public internet. | [Install](https://open.docker.com/extensions/marketplace?extensionId=tailscale/docker-extension) | [Link](https://hub.docker.com/extensions/tailscale/docker-extension) | ![Docker Pulls](https://img.shields.io/docker/pulls/tailscale/docker-extension) |
 | 31 | Akita API | Drop in Agent for API Monitoring and Observability | [Install](https://open.docker.com/extensions/marketplace?extensionId=akitasoftware/akita-docker-extension) | [Link](https://hub.docker.com/extensions/akitasoftware/akita-docker-extension) |![Docker Pulls](https://img.shields.io/docker/pulls/akitasoftware/akita-docker-extension) |
 | 32 | Dive-In | Explore docker images, layer contents, and discover ways to shrink the size of your Docker/OCI image | [Install](https://open.docker.com/extensions/marketplace?extensionId=prakhar1989/dive-in) | [Link](https://hub.docker.com/extensions/prakhar1989/dive-in) |![Docker Pulls](https://img.shields.io/docker/pulls/prakhar1989/dive-in) |
+| 33 | Harpoon | Docker Extension for the No Code Kubernetes platform | [Install](https://open.docker.com/extensions/marketplace?extensionId=harpooncorp/harpoon-ext) | [Link](https://hub.docker.com/extensions/harpooncorp/harpoon-ext) |![Docker Pulls](https://img.shields.io/docker/pulls/harpooncorp/harpoon-ext) |
 
 ## Table of Contents
 
