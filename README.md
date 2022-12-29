@@ -5,11 +5,6 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.docker-community-extensions)
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
-<h2 align="center">
-🎤 Ask us anything! 🐳<br><br>
-
-<a href="../../issues/new"> 💬 Add Your Extension</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc"> 📖 Recently Added</a>
-</h2>
 
 # 👉 A Curated List of Docker Extensions
 
