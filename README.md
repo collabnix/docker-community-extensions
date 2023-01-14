@@ -186,8 +186,10 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Testing
 
-- [uffizzi/docker-desktop-extension](https://hub.docker.com/r/uffizzi/docker-desktop-extension) - Lets you create and manage full-stack previews in the cloud using a Docker Compose file [Install](https://open.docker.com/extensions/marketplace?extensionId=uffizzi/docker-desktop-extension&tag=latest)<br>
-- [Mailhog](https://github.com/litan1106/mailhog-docker-extension) - Mailhog Docker Extension ![badge](https://img.shields.io/badge/-new-red)<br>
+| S.NO | Name of Extensions                                      | Description                                                                             | Docker Desktop                                                                                                    | GitHub                                                            | Popularity |
+|------|---------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------|
+| 1    | uffizzi/docker-desktop-extension                        | Lets you create and manage full-stack previews in the cloud using a Docker Compose file | [Install](https://open.docker.com/extensions/marketplace?extensionId=uffizzi/docker-desktop-extension&tag=latest) | [Link](https://hub.docker.com/r/uffizzi/docker-desktop-extension) |            |
+| 2    | Mailhog ![badge](https://img.shields.io/badge/-new-red) | Mailhog Docker Extension                                                                |                                                                                                                   | [Link](https://github.com/litan1106/mailhog-docker-extension)     |            |
 
 ## Infrastructure
 
