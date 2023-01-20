@@ -145,7 +145,10 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Networking
 
-- [Boring Proxy](https://github.com/boringproxy/boringproxy-docker-extension)- Boring Proxy Docker Extension  ![badge](https://img.shields.io/badge/-new-red) <br>
+| . | Name of Extensions                                           | Description                   | Docker Desktop | GitHub                                                              | Popularity |
+|---|--------------------------------------------------------------|-------------------------------|----------------|---------------------------------------------------------------------|------------|
+| 1 | Boring Proxy ![badge](https://img.shields.io/badge/-new-red) | Boring Proxy Docker Extension |                | [Link](https://github.com/boringproxy/boringproxy-docker-extension) |            |
+
 
 ## Database
 
@@ -160,7 +163,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Storage
 
-- [Storj Docker Extension](https://github.com/elek/docker-storj-extension) - A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. ![badge](https://img.shields.io/badge/-new-red) <br>
+| . | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity |
+|---|------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------|--------------------------------------------------------|------------|
+| 1 | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. |                | [Link](https://github.com/elek/docker-storj-extension) |            |<br>
 
 ## Security
 
@@ -177,13 +182,15 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Logging
 
-- [docker/logs-explorer-extension](https://hub.docker.com/r/docker/logs-explorer-extension) - View all your container logs in one place so you can debug and troubleshoot faster [Install](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension
-) ![Docker Pulls](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) <br>
+| . | Name of Extensions             | Description                                                                        | Docker Desktop                                                                                          | DockerHub                                                                               | Popularity |
+|---|--------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------|
+| 1 | docker/logs-explorer-extension | View all your container logs in one place so you can debug and troubleshoot faster | [ Install ](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension ) | ![ Docker Pulls ]( https://img.shields.io/docker/pulls/docker/logs-explorer-extension ) |            | <br>
 
 ## Gaming
 
-- [Flappy Dock](https://github.com/mikesir87/floppybird) - A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) [Install](https://open.docker.com/extensions/marketplace?extensionId=mikesir87/flappy-dock-extension&tag=latest) ![badge](https://img.shields.io/badge/-new-red)
-
+| . | Name of Extensions                                          | Description                                                              | Docker Desktop                                                                                                   | DockerHub | Popularity |
+|---|-------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| 1 | Flappy Dock ![badge](https://img.shields.io/badge/-new-red) | A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) | [Install](https://open.docker.com/extensions/marketplace?extensionId=mikesir87/flappy-dock-extension&tag=latest) |           |            |
 ## Testing
 
 | S.NO | Name of Extensions                                      | Description                                                                             | Docker Desktop                                                                                                    | GitHub                                                            | Popularity |
