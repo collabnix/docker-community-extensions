@@ -67,6 +67,8 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 31 | Akita API | Drop in Agent for API Monitoring and Observability | [Install](https://open.docker.com/extensions/marketplace?extensionId=akitasoftware/akita-docker-extension) | [Link](https://hub.docker.com/extensions/akitasoftware/akita-docker-extension) |![Docker Pulls](https://img.shields.io/docker/pulls/akitasoftware/akita-docker-extension) |
 | 32 | Dive-In | Explore docker images, layer contents, and discover ways to shrink the size of your Docker/OCI image | [Install](https://open.docker.com/extensions/marketplace?extensionId=prakhar1989/dive-in) | [Link](https://hub.docker.com/extensions/prakhar1989/dive-in) |![Docker Pulls](https://img.shields.io/docker/pulls/prakhar1989/dive-in) |
 | 33 | Harpoon | Docker Extension for the No Code Kubernetes platform | [Install](https://open.docker.com/extensions/marketplace?extensionId=harpooncorp/harpoon-ext) | [Link](https://hub.docker.com/extensions/harpooncorp/harpoon-ext) |![Docker Pulls](https://img.shields.io/docker/pulls/harpooncorp/harpoon-ext) |
+| 34 | Localstack | Extension of Localstack for Docker desktop | [Install](https://open.docker.com/extensions/marketplace?extensionId=localstack/localstack-docker-desktop) | [Link](https://hub.docker.com/extensions/localstack/localstack-docker-desktop) |![Docker Pulls](https://img.shields.io/docker/pulls/localstack/localstack-docker-desktop) |
+| 35 | Alfresco Community | Alfresco Docker Extension | [Install](https://open.docker.com/extensions/marketplace?extensionId=angelborroy/alfresco-extension) | [Link](https://hub.docker.com/extensions/angelborroy/alfresco-extension) |![Docker Pulls](https://img.shields.io/docker/pulls/angelborroy/alfresco-extension) |
 
 ## Table of Contents
 
