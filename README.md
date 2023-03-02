@@ -203,6 +203,8 @@ Here is a list of Docker Extensions available in Docker Hub:
 | . | Name of Extensions                                          | Description                                                              | Docker Desktop                                                                                                   | DockerHub | Popularity |
 |---|-------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------|------------|
 | 1 | Flappy Dock ![badge](https://img.shields.io/badge/-new-red) | A forked copy of [nebez/floppybird](https://github.com/nebez/floppybird) | [Install](https://open.docker.com/extensions/marketplace?extensionId=mikesir87/flappy-dock-extension&tag=latest) |           |            |
+
+
 ## Testing
 
 | S.NO | Name of Extensions                                      | Description                                                                             | Docker Desktop                                                                                                    | GitHub                                                            | Popularity |
