@@ -26,6 +26,16 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
 
+## Featured Docker Extension( June 2023)
+
+- [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
+- [LambdaTest Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
+- [Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
+- [Ddosify Docker Extension](https://www.docker.com/blog/no-code-performance-testing-using-ddosify-extension/)
+- [NebulaGraph Docker Extension](https://www.docker.com/blog/distributed-cloud-native-graph-database-nebulagraph-docker-extension/)
+- 
+
+
 
 ## List of Docker Marketplace Extensions
 
