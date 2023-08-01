@@ -26,7 +26,7 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
 
-## Featured Docker Extension( July 2023)
+## Featured Docker Extension( Aug 2023)
 
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Digma Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
