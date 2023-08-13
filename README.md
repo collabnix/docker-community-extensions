@@ -29,6 +29,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Aug 2023)
 
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
+- [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/) 
 - [Digma Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
 - [LambdaTest Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
 - [Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
