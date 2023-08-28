@@ -88,7 +88,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 41 | Oracle SQLDeveloper Web | Docker Extension for using an embedded version of Oracle SQLDeveloper Web. | [Install](https://open.docker.com/extensions/marketplace?extensionId=weygu/nebulagraph-dd-ext) | [Link](https://hub.docker.com/extensions/mochoa/sdw-docker-extension) | ![DockerPull](https://img.shields.io/docker/pulls/mochoa/sdw-docker-extension) |
 | 42 | Grafana | Monitor your docker desktop instance from Grafana cloud. | [Install](https://open.docker.com/extensions/marketplace?extensionId=grafana/docker-desktop-extension) | [Link](https://hub.docker.com/extensions/grafana/docker-desktop-extension) | ![DockerPull](https://img.shields.io/docker/pulls/grafana/docker-desktop-extension) |
 | 43 | Remote.it | Docker desktop extension to easily connect to containers from anywhere | [Install](https://open.docker.com/extensions/marketplace?extensionId=remoteit/docker-extension) | [Link](https://hub.docker.com/extensions/remoteit/docker-extension) | ![DockerPull](https://img.shields.io/docker/pulls/remoteit/docker-extension) |
-| 44 | Topmast | Topmast is an extension that simplifies the management of Docker logs and container statistics | [Install](https://open.docker.com/extensions/marketplace?extensionId=oslabs-beta/Topmast)  | [Link](https://hub.docker.com/extensions/oslabs-beta/Topmast) | ![DockerPull](https://img.shields.io/docker/pulls/oslabs-beta/Topmast) |
+topmast/topmast) |
 
 
 
