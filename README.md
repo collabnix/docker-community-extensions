@@ -89,6 +89,16 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 42 | Grafana | Monitor your docker desktop instance from Grafana cloud. | [Install](https://open.docker.com/extensions/marketplace?extensionId=grafana/docker-desktop-extension) | [Link](https://hub.docker.com/extensions/grafana/docker-desktop-extension) | ![DockerPull](https://img.shields.io/docker/pulls/grafana/docker-desktop-extension) |
 | 43 | Remote.it | Docker desktop extension to easily connect to containers from anywhere | [Install](https://open.docker.com/extensions/marketplace?extensionId=remoteit/docker-extension) | [Link](https://hub.docker.com/extensions/remoteit/docker-extension) | ![DockerPull](https://img.shields.io/docker/pulls/remoteit/docker-extension) |
 topmast/topmast) |
+| 44 | ContainerWatch | ContainerWatch is an extension that adds feature-rich monitoring tools to Docker Desktop. | [Install](https://open.docker.com/extensions/marketplace?extensionId=containerwatch/docker-extension) | [Link](https://hub.docker.com/extensions/containerwatch/containerwatch) | ![DockerPull](https://img.shields.io/docker/pulls/containerwatch/containerwatch) |
+| 45 | Kafka Sonar | This is the one-stop shop Docker Desktop Extension for seamless Kafka cluster monitoring and troubleshooting 🐋. | [Install](https://open.docker.com/extensions/marketplace?extensionId=oslabs-beta/kafkasonar) | [Link](https://hub.docker.com/extensions/kafkasonar/kafkasonar) | ![DockerPull](https://img.shields.io/docker/pulls/kafkasonar/kafkasonar) |
+| 45 | Port-Navigator | This is a Docker networking management and visualization tool to configure and maintain Docker container network settings. | [Install](https://open.docker.com/extensions/marketplace?extensionId=port-navigator/portnavigator) | [Link](https://hub.docker.com/extensions/portnavigator/port-navigator) | ![DockerPull](https://img.shields.io/docker/pulls/portnavigator/port-navigator) |
+
+
+<!-- | 46 | Docketeer-extension | This is A Docker & Kubernetes developer tool to manage containers & visualize both cluster and container metrics | [Install](https://open.docker.com/extensions/marketplace?extensionId=oslabs-beta/kafkasonar) | [Link](https://hub.docker.com/extensions/kafkasonar/kafkasonar) | ![DockerPull](https://img.shields.io/docker/pulls/kafkasonar/kafkasonar) | -->
+
+
+
+
 
 
 
@@ -254,6 +264,20 @@ topmast/topmast) |
 | 4    	| Hoppscotch Docker Extension                                                              	| A Docker Extension for Hoppscotch                                                                                                                               	|                                                                                                              	| [Link](https://github.com/edithturn/hoppscotch-extension)                              	|                                                                                     	|
 | 5    	| faros-community-edition ![badge](https://img.shields.io/badge/-new-red)                  	| BI, API and Automation layer for your Engineering Operations data                                                                                               	|                                                                                                              	| [Link](https://github.com/faros-ai/faros-community-edition/tree/main/docker-extension) 	|                                                                                     	|
 | 6    	| Ngrok Docker Desktop Extension  ![badge](https://img.shields.io/badge/-new-green)        	| Ngrok is a simplified API-first ingress-as-a-service that adds connectivity,<br>security, and observability to your apps in one line                            	|                                                                                                              	| [Link](https://github.com/ngrok/ngrok-docker-extension)                                	| ![Github Stars](https://img.shields.io/github/stars/ngrok/ngrok-docker-extension)   	|
+| 7   	| Redis-Enterprise-Docker-Extension![badge](https://img.shields.io/badge/-new-green)        	| The Redis Enterprise Docker Extension is a tool that enables the creation of Redis Enterprise Databases within Docker Desktop without requiring the local installation of Redis Enterprise or manual Docker container setup.🦺                            	|                                                                                                              	| [Link](https://github.com/redis-field-engineering/redis-enterprise-docker-extension/)                                	| ![Github Stars](https://img.shields.io/github/stars/redis-field-engineering/redis-enterprise-docker-extension)   	|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## WebAssembly
 
