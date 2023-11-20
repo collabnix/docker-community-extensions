@@ -26,14 +26,13 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Nov 2023)
 
 
+- [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
+- [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
 - [Microcks Docker Extension](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 - [Digma Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
-- [LambdaTest Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
-- [Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
-- [Ddosify Docker Extension](https://www.docker.com/blog/no-code-performance-testing-using-ddosify-extension/)
-- [NebulaGraph Docker Extension](https://www.docker.com/blog/distributed-cloud-native-graph-database-nebulagraph-docker-extension/)
+
 
 ## List of Docker Marketplace Extensions
 
