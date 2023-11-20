@@ -28,7 +28,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 
 - [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
 - [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
-- [JupyterLabs Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
+- [JupyterLab Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
 - [Microcks Docker Extension](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
