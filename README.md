@@ -196,9 +196,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Storage
 
-| .   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity |
+| S. No   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity                                                                                                     |
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------ | ---------- | ---- |
-| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. |                | [Link](https://github.com/elek/docker-storj-extension) |            | <br> |
+| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security |      Link          | [Link](https://github.com/elek/docker-storj-extension) |            | |
 
 ## Security
 
