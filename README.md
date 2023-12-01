@@ -196,9 +196,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Storage
 
-| S. No   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity                                                                                                     |
-| --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------ | ---------- | ---- |
-| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security |      Link          | [Link](https://github.com/elek/docker-storj-extension) |            | |
+| S. No | Name of Extensions                                                     | Description                                                                       | Docker Desktop | GitHub                                                 | Popularity                                                                       |
+|-------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------|--------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1     | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security | Link           | [Link](https://github.com/elek/docker-storj-extension) | ![Github Stars](https://img.shields.io/github/stars/elek/docker-storj-extension) |
 
 ## Security
 
@@ -218,9 +218,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Logging
 
-| .   | Name of Extensions             | Description                                                                        | Docker Desktop                                                                                         | DockerHub                                                                             | Popularity |
-| --- | ------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------- | ---- |
-| 1   | docker/logs-explorer-extension | View all your container logs in one place so you can debug and troubleshoot faster | [ Install ](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |            | <br> |
+| . | Name of Extensions             | Description                                                                        | Docker Desktop                                                                                         | DockerHub                                                                             | Popularity                                                                            |
+|---|--------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 1 | docker/logs-explorer-extension | View all your container logs in one place so you can debug and troubleshoot faster | [ Install ](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |
 
 ## Gaming
 
