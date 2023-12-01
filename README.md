@@ -97,7 +97,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 ## Table of Contents
 
 - [Categories](#categories)
-  - 🧑‍💻 [AI/ML](#ai/ml)
+  - 🧑‍💻 [AI/ML](#AI/ML)
   - 🧰 [Utilities](#utilities)
   - 🧑‍💻 [Development](#development)
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
