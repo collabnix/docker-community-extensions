@@ -26,14 +26,14 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Nov 2023)
 
 
+- [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
+- [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
+- [JupyterLab Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
 - [Microcks Docker Extension](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 - [Digma Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
-- [LambdaTest Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
-- [Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
-- [Ddosify Docker Extension](https://www.docker.com/blog/no-code-performance-testing-using-ddosify-extension/)
-- [NebulaGraph Docker Extension](https://www.docker.com/blog/distributed-cloud-native-graph-database-nebulagraph-docker-extension/)
+
 
 ## List of Docker Marketplace Extensions
 
@@ -196,9 +196,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Storage
 
-| .   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity |
+| S. No   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity                                                                                                     |
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------ | ---------- | ---- |
-| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security. |                | [Link](https://github.com/elek/docker-storj-extension) |            | <br> |
+| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security |      Link          | [Link](https://github.com/elek/docker-storj-extension) |            | |
 
 ## Security
 
@@ -234,6 +234,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 | ---- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
 | 1    | uffizzi/docker-desktop-extension                        | Lets you create and manage full-stack previews in the cloud using a Docker Compose file | [Install](https://open.docker.com/extensions/marketplace?extensionId=uffizzi/docker-desktop-extension&tag=latest) | [Link](https://hub.docker.com/r/uffizzi/docker-desktop-extension) |            |
 | 2    | Mailhog ![badge](https://img.shields.io/badge/-new-red) | Mailhog Docker Extension                                                                |                                                                                                                   | [Link](https://github.com/litan1106/mailhog-docker-extension)     |            |
+| 3    | JMeter ![badge](https://img.shields.io/badge/-new-red) | JMeter Docker Extension                                                                |                                                                                                                   | [Link](https://github.com/qainsights/jmeter-docker-extension)     | ![Github Stars](https://img.shields.io/github/stars/qainsights/jmeter-docker-extension)            |
 
 ## Infrastructure
 
