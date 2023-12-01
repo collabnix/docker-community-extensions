@@ -97,6 +97,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 ## Table of Contents
 
 - [Categories](#categories)
+  - 🧑‍💻 [AI/ML](#ai/ml)
   - 🧰 [Utilities](#utilities)
   - 🧑‍💻 [Development](#development)
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
@@ -118,6 +119,13 @@ Here is a list of Docker Extensions available in Docker Hub:
 - [References](#references)
 
 ## Categories
+
+## AI/ML
+
+| S.NO | Name of Extensions                                                  | Description                                                                                             | GitHub                                                     | Popularity                                                                           |
+|------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 1    | Docker-AI-Assistant ![badge](https://img.shields.io/badge/-new-red) | A NLP powered assistant for docker development, to assist with setting up docker containers and images. | [Link](https://github.com/Kanchuking1/Docker-AI-Assistant) | ![Github Stars](https://img.shields.io/github/stars/Kanchuking1/Docker-AI-Assistant) |
+| 2    | Docker-ML-Studio  ![badge](https://img.shields.io/badge/-new-red)   | Docker extension to build and run PyTorch machine learning models.                                      | [Link](https://github.com/JoseLuisC99/docker-ml-studio)    | ![Github Stars](https://img.shields.io/github/stars/JoseLuisC99/docker-ml-studio)    |
 
 ## Utilities
 
