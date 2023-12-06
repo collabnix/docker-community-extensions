@@ -97,6 +97,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 ## Table of Contents
 
 - [Categories](#categories)
+  - 🧑‍💻 [AI/ML](#aiml)
   - 🧰 [Utilities](#utilities)
   - 🧑‍💻 [Development](#development)
   - 🫙 [Container Management and Orchestration](#container-management-and-orchestration)
@@ -119,8 +120,16 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Categories
 
-## Utilities
+## AI/ML
 
+| S.NO | Name of Extensions                                                  | Description                                                                                             | GitHub                                                     | Popularity                                                                           |
+|------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 1    | Docker-AI-Assistant ![badge](https://img.shields.io/badge/-new-red) | A NLP powered assistant for docker development, to assist with setting up docker containers and images. | [Link](https://github.com/Kanchuking1/Docker-AI-Assistant) | ![Github Stars](https://img.shields.io/github/stars/Kanchuking1/Docker-AI-Assistant) |
+| 2    | Docker-ML-Studio  ![badge](https://img.shields.io/badge/-new-red)   | Docker extension to build and run PyTorch machine learning models.                                      | [Link](https://github.com/JoseLuisC99/docker-ml-studio)    | ![Github Stars](https://img.shields.io/github/stars/JoseLuisC99/docker-ml-studio)    |
+
+
+
+## Utilities
 | S.No. | Name of Extensions                                                   | Description                                                                                                                                              | Docker Desktop                                                                                                                      | GitHub                                                                        | Popularity                                                                                              |
 |-------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | 1     | Golang Playground                                                    | Golang playground in Docker Desktop                                                                                                                      | [Install](https://open.docker.com/extensions/marketplace?extensionId=rumpl/docker-extension-golang-playground)                      | [Link](https://github.com/rumpl/docker-extension-golang-playground)           | ![Github Stars](https://img.shields.io/github/stars/rumpl/docker-extension-golang-playground)           |
@@ -196,9 +205,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Storage
 
-| S. No   | Name of Extensions                                                     | Description                                                                        | Docker Desktop | GitHub                                                 | Popularity                                                                                                     |
-| --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------ | ---------- | ---- |
-| 1   | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security |      Link          | [Link](https://github.com/elek/docker-storj-extension) |            | |
+| S. No | Name of Extensions                                                     | Description                                                                       | Docker Desktop | GitHub                                                 | Popularity                                                                       |
+|-------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------|--------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1     | Storj Docker Extension ![badge](https://img.shields.io/badge/-new-red) | A Resilient Cloud Object Storage with blazing Performance and Zero-trust Security | Link           | [Link](https://github.com/elek/docker-storj-extension) | ![Github Stars](https://img.shields.io/github/stars/elek/docker-storj-extension) |
 
 ## Security
 
@@ -218,9 +227,9 @@ Here is a list of Docker Extensions available in Docker Hub:
 
 ## Logging
 
-| .   | Name of Extensions             | Description                                                                        | Docker Desktop                                                                                         | DockerHub                                                                             | Popularity |
-| --- | ------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------- | ---- |
-| 1   | docker/logs-explorer-extension | View all your container logs in one place so you can debug and troubleshoot faster | [ Install ](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |            | <br> |
+| . | Name of Extensions             | Description                                                                        | Docker Desktop                                                                                         | DockerHub                                                                             | Popularity                                                                            |
+|---|--------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 1 | docker/logs-explorer-extension | View all your container logs in one place so you can debug and troubleshoot faster | [ Install ](https://open.docker.com/extensions/marketplace?extensionId=docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) | ![ Docker Pulls ](https://img.shields.io/docker/pulls/docker/logs-explorer-extension) |
 
 ## Gaming
 
