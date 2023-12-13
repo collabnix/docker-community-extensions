@@ -29,12 +29,13 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 
 - [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
 - [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
+- [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
 - [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
 - [JupyterLab Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
-- [Microcks Docker Extension](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
 - [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 - [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
-- [Digma Docker Extension](https://www.docker.com/blog/shorter-feedback-loops-developing-java-apps-with-digmas-free-docker-extension/)
+- [Docker Labs Debug Tools](https://hub.docker.com/extensions/docker/labs-debug-tools-extension)
+
 
 
 ## List of Docker Marketplace Extensions
