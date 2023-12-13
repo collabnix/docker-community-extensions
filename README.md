@@ -26,7 +26,9 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Dec 2023)
 
 
+
 - [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
+- [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
 - [JupyterLab Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
 - [Microcks Docker Extension](https://www.docker.com/blog/get-started-with-the-microcks-docker-extension-for-api-mocking-and-testing/)
