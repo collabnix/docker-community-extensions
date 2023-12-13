@@ -94,6 +94,7 @@ Here is a list of Docker Extensions available in Docker Hub:
 | 47 | VS Code for the Web | Docker Extension for using an embedded VS Code for the Web | [Install](https://open.docker.com/extensions/marketplace?extensionId=mochoa/coder-docker-extension) | [Link](https://hub.docker.com/extensions/mochoa/coder-docker-extension) | ![DockerPull](https://img.shields.io/docker/pulls/mochoa/coder-docker-extension) | 
 | 48 | PortNavigator |  Networking Tool for network visualization and configurations | [Install](https://open.docker.com/extensions/marketplace?extensionId=portnavigator/port-navigator) | [Link](https://hub.docker.com/extensions/portnavigator/port-navigator) | ![DockerPull](https://img.shields.io/docker/pulls/portnavigator/port-navigator) | 
 | 49 | Jupyter Notebook Scientific Python Stack | Docker Extension for using an embedded Jupyter Notebook Scientific Python Stack | [Install](https://open.docker.com/extensions/marketplace?extensionId=mochoa/jupyter-docker-extension) | [Link](https://hub.docker.com/extensions/mochoa/jupyter-docker-extension) | ![DockerPull](https://img.shields.io/docker/pulls/mochoa/jupyter-docker-extension) | 
+| 50 | Warp Docker Extension | Warp Docker Extension | [Install](https://open.docker.com/extensions/marketplace?extensionId=warpdotdev/warp:0.0.23) | [link](https://hub.docker.com/extensions/warpdotdev/warp) | ![DockerPull](https://img.shields.io/docker/pulls/warpdotdev/warp)
 
 
 
