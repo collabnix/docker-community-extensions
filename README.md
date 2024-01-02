@@ -23,11 +23,11 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
 
-## Featured Docker Extension( Dec 2023)
+## Featured Docker Extension( Jan 2024)
 
 
 
-- [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-docker-extension/)
+- [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-doDr-extension/)
 - [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
 - [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
