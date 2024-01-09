@@ -27,6 +27,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 
 
 
+- [MindsDB Docker Extension](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
 - [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-doDr-extension/)
 - [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
