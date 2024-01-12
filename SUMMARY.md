@@ -7,6 +7,13 @@
 * [🚀 Utilities](categories/utilities.md)
 * [🚢 Container Management](categories/container-management.md)
 * [📚 Database](categories/database.md)
+* [🎮 Gaming](categories/gaming.md)
+* [👨💻 Logging](categories/logging.md)
+* [🔏 Security](categories/security.md)
+* [👩💻 WebAssembly](categories/webassembly.md)
+* [📧 AI/ML](categories/ai-ml.md)
+* [🎆 Networking](categories/networking.md)
+* [⚙ API Management](categories/api-management.md)
 
 ## Videos
 
