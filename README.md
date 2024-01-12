@@ -2,8 +2,22 @@
 description: >-
   Docker Extensions lets you use third-party tools within Docker Desktop to
   extend its functionality.
-cover: https://secure.meetupstatic.com/photos/event/d/8/6/a/highres_511915402.webp
-coverY: -71.47812817904374
+cover: .gitbook/assets/1_WiJWV1yO5gpmHV7Jw7Hvgw (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 A Curated List of Docker Extensions
