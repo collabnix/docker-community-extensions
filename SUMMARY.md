@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 A Curated List of Docker Extensions](README.md)
 
 ## About us
 
