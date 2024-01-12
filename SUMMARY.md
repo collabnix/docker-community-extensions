@@ -14,10 +14,15 @@
 * [📧 AI/ML](categories/ai-ml.md)
 * [🎆 Networking](categories/networking.md)
 * [⚙ API Management](categories/api-management.md)
-
-## Videos
+* [👩💻 Development](categories/development.md)
+* [🏪 Storage](categories/storage.md)
+* [👾 Testing](categories/testing.md)
+* [🏗 Infrastructure](categories/infrastructure.md)
 
 ***
 
-* [Events](events/README.md)
-  * [Meetup](events/meetup.md)
+* [📺 Videos](videos.md)
+* [💬 Support & Community](support-and-community/README.md)
+  * [🔁 References](support-and-community/references.md)
+  * [📡 Collabnix Discord Server](support-and-community/collabnix-discord-server.md)
+  * [🗓 Meetup](support-and-community/meetup.md)

@@ -2,20 +2,17 @@
 description: >-
   Docker Extensions lets you use third-party tools within Docker Desktop to
   extend its functionality.
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
+cover: https://secure.meetupstatic.com/photos/event/d/8/6/a/highres_511915402.webp
+coverY: -71.47812817904374
 ---
 
 # 👋 A Curated List of Docker Extensions
 
 <details>
 
-<summary>Why Developers Need Docker Extensions </summary>
+<summary><mark style="color:green;"><strong>Why Developers Need Docker Extensions</strong></mark> </summary>
 
-
-
-* Extensions allows developers to seamlessly connect their favorite development tools to your application development and deployment workflows
+* Extensions allows developers to seamlessly connect their favourite development tools to your application development and deployment workflows
 
 <!---->
 
@@ -39,7 +36,7 @@ coverY: 0
 
 <details>
 
-<summary>Featured Docker Extension( Jan 2024)</summary>
+<summary><mark style="color:green;"><strong>Featured Docker Extension( Jan 2024)</strong></mark></summary>
 
 * [MindsDB Docker Extension](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
 * [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-doDr-extension/)
@@ -50,11 +47,6 @@ coverY: 0
 * [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
 * [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 * [Docker Labs Debug Tools](https://hub.docker.com/extensions/docker/labs-debug-tools-extension)
-
-###
-
-\
-
 
 </details>
 
@@ -68,58 +60,54 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 
 <details>
 
-<summary>How to install Docker Extensions</summary>
+<summary><mark style="color:green;"><strong>How to install Docker Extensions?</strong></mark></summary>
 
+Using GitHub
 
-
-### Using GitHub
-
-#### Step 1. Clone the repository
-
-```
+{% code title="Step 1. Clone the repository." %}
+```bash
  git clone https://github.com/<repo-name>/<name-of-your-extension>
 ```
+{% endcode %}
 
-#### Step 2. Build the Docker Extension
-
-Navigate into the cloned repository and run:
-
-```
+{% code title="Step 2. Build the Docker Extension Navigate into the cloned repository and run:" %}
+```bash
  make build-extension
 ```
+{% endcode %}
 
 The above command generates a Docker image named after the Docker Hub repository.
 
-#### Step 3. Install Docker Extensions
-
 To install the extension in Docker Desktop, run:
 
-```
+{% code title="Step 3. Install Docker Extensions" %}
+```bash
  docker extension install <repo-name>/<name-of-your-extension>
 ```
-
-#### Step 4. List the Extension
+{% endcode %}
 
 You can also check that the extension has been installed successfully using the following CLI command:
 
-```
+{% code title="Step 4. List the Extension" %}
+```bash
  docker extension ls
 ```
+{% endcode %}
 
 ### Using Docker Hub
 
-#### Step 1. Pull the image
-
-```
+{% code title="Step 1. Pull the image" %}
+```bash
  docker pull <Docker-Hub-username>/<image-name>
 ```
-
-#### Step 2. Install Docker Extensions
+{% endcode %}
 
 To install the extension in Docker Desktop, run:
 
-```
+{% code title="Step 2. Install Docker Extensions" %}
+```bash
  docker extension install <Docker-Hub-username>/<image-name>
 ```
+{% endcode %}
 
 </details>
