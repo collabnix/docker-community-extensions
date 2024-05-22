@@ -28,14 +28,14 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 
 - [Imagetools](https://hub.docker.com/extensions/dixtdf/image-tools)
 - [SignalOne](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
-- [MindsDB Docker Extension](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
-- [Cloudsmith Docker Extension](https://hub.docker.com/extensions/cloudsmith/docker-desktop-extension)
-- [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
+- [MindsDB](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
+- [Cloudsmith](https://hub.docker.com/extensions/cloudsmith/docker-desktop-extension)
+- [Warp](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
-- [Jmeter Docker Extension](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
-- [JupyterLab Docker Extension](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
-- [Grafana Docker Extension](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
-- [Memgraph Docker Extension](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
+- [Jmeter](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
+- [JupyterLab](https://www.docker.com/blog/getting-started-with-jupyterlab-as-a-docker-extension/)
+- [Grafana](https://www.docker.com/blog/unlock-docker-desktop-real-time-insights-with-the-grafana-docker-extension/)
+- [Memgraph](https://www.docker.com/blog/memgraph-docker-extension-empowering-real-time-analytics-with-high-performance/)
 - [Docker Labs Debug Tools](https://hub.docker.com/extensions/docker/labs-debug-tools-extension)
 
 
