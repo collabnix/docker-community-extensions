@@ -30,6 +30,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 - [SignalOne](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
 - [MindsDB](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
 - [Cloudsmith](https://hub.docker.com/extensions/cloudsmith/docker-desktop-extension)
+- [Checkmarx](https://hub.docker.com/extensions/checkmarx/imagex)
 - [Warp](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
 - [Jmeter](https://qainsights.com/introducing-the-apache-jmeter-docker-extension/)
