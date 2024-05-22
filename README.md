@@ -23,11 +23,13 @@ Refer to [this official link](https://www.docker.com/products/extensions/) to le
 Here's a place to suggest new ideas for Docker Extensions and get new ideas of what to build for the larger Docker community.
 
 
-## Featured Docker Extension( Feb 2024)
+## Featured Docker Extension( May 2024)
 
 
-
+- [Imagetools](https://hub.docker.com/extensions/dixtdf/image-tools)
+- [SignalOne](https://hub.docker.com/extensions/signaloneai/signalone-extension)
 - [MindsDB Docker Extension](https://hub.docker.com/r/ajeetraina/mindsdb-docker-extension)
+- [Cloudsmith Docker Extension](https://hub.docker.com/extensions/cloudsmith/docker-desktop-extension)
 - [Livecycle Docker Extension](https://www.docker.com/blog/livecycle-doDr-extension/)
 - [Warp Docker Extension](https://hub.docker.com/extensions/warpdotdev/warp)
 - [Docker Labs K8s Toolkit](https://hub.docker.com/extensions/docker/labs-k8s-toolkit-extension)
