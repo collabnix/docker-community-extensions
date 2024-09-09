@@ -26,6 +26,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Sep 2024)
 
 
+- [Kong Konnect](https://github.com/kong/konnect-docker-extension:1.0.4)
 - [Keploy](https://github.com/Yaxhveer/keploy-docker-extension)
 - [Imagetools](https://hub.docker.com/extensions/dixtdf/image-tools)
 - [SignalOne](https://www.docker.com/blog/debug-containers-ai-signal0ne-docker-extension/)
