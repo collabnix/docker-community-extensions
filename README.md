@@ -26,6 +26,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( Sep 2024)
 
 
+- [Krs Docker Extension](https://open.docker.com/extensions/marketplace?extensionId=kubetoolsca/krs-docker-extension)
 - [Kong Konnect](https://github.com/kong/konnect-docker-extension:1.0.4)
 - [Labs: AI Tools for Devs](https://github.com/docker/labs-ai-tools-for-devs:0.0.10)
 - [Labs VSCode Installer](https://github.com/docker/labs-vscode-installer:0.0.3)
