@@ -26,7 +26,7 @@ Here's a place to suggest new ideas for Docker Extensions and get new ideas of w
 ## Featured Docker Extension( May 2025)
 
 
-- [Remote Docker](https://open.docker.com/extensions/marketplace?extensionId=egekocabas/remote-docker:0.1.0)
+- [Remote Docker](https://open.docker.com/extensions/marketplace?extensionId=egekocabas/remote-docker)
 - [Krs Docker Extension](https://open.docker.com/extensions/marketplace?extensionId=kubetoolsca/krs-docker-extension)
 - [Kong Konnect](https://github.com/kong/konnect-docker-extension:1.0.4)
 - [Labs: AI Tools for Devs](https://github.com/docker/labs-ai-tools-for-devs:0.0.10)
